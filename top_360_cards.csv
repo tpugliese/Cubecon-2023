@@ -1,0 +1,5074 @@
+details_name,Cube Name
+Stomping Ground,True
+Temple Garden,True
+Blood Crypt,True
+Sacred Foundry,True
+Overgrown Tomb,True
+Hallowed Fountain,True
+Breeding Pool,True
+Watery Grave,True
+Steam Vents,True
+Godless Shrine,True
+Verdant Catacombs,True
+Bloodstained Mire,True
+Wooded Foothills,True
+Marsh Flats,True
+Arid Mesa,True
+Thraben Inspector,True
+Windswept Heath,True
+Misty Rainforest,True
+Flooded Strand,True
+Scalding Tarn,True
+Polluted Delta,True
+Young Pyromancer,True
+Lightning Bolt,True
+Lingering Souls,True
+Dismember,True
+Prismatic Vista,True
+Reclamation Sage,True
+Faithless Looting,True
+Snapcaster Mage,True
+Carrion Feeder,True
+Bloodghast,True
+Path to Exile,True
+Tireless Tracker,True
+Duress,True
+Eternal Witness,True
+Birds of Paradise,True
+Grim Lavamancer,True
+Bloodchief's Thirst,True
+Sevinne's Reclamation,True
+Monastery Swiftspear,True
+Nurturing Peatland,True
+Brainstorm,True
+Unearth,True
+Bone Shards,True
+Zagoth Triome,True
+Raugrin Triome,True
+Dragon's Rage Channeler,True
+"Boseiju, Who Endures",True
+Savai Triome,True
+Collective Brutality,True
+Indatha Triome,True
+Ketria Triome,True
+Mana Leak,True
+Goblin Bombardment,True
+Opt,True
+Soulherder,True
+Mind Stone,True
+Preordain,True
+Inquisition of Kozilek,True
+Blood Artist,True
+Kolaghan's Command,True
+Bayou,True
+Badlands,True
+Ephemerate,True
+Taiga,True
+Ponder,True
+Miscalculation,True
+Abrade,True
+Sylvan Library,True
+Counterspell,True
+Raffine's Tower,True
+"Laelia, the Blade Reforged",True
+Waterlogged Grove,True
+Luminarch Aspirant,True
+Frantic Search,True
+Tropical Island,True
+Savannah,True
+Tundra,True
+Stonecoil Serpent,True
+Spara's Headquarters,True
+Walking Ballista,True
+Silent Clearing,True
+Scrapwork Mutt,True
+Volcanic Island,True
+City of Brass,True
+Ash Barrens,True
+Monastery Mentor,True
+Urza's Saga,True
+Firebolt,True
+Chain Lightning,True
+Skyclave Apparition,True
+Hard Evidence,True
+Jetmir's Garden,True
+Seasoned Pyromancer,True
+Smuggler's Copter,True
+Scrubland,True
+Chromatic Star,True
+Underground Sea,True
+Mishra's Factory,True
+Gravecrawler,True
+Wrath of God,True
+Plateau,True
+Llanowar Elves,True
+Fabled Passage,True
+Xander's Lounge,True
+Ziatora's Proving Ground,True
+Fatal Push,True
+Thought Scour,True
+Phyrexian Revoker,True
+Thoughtseize,True
+Damnation,True
+Dark Confidant,True
+Field of the Dead,True
+Currency Converter,True
+Priest of Forgotten Gods,True
+Swords to Plowshares,True
+Celestial Colonnade,True
+Zulaport Cutthroat,True
+Shriekmaw,True
+Nettlecyst,True
+Wasteland,True
+Dreadhorde Arcanist,True
+Dig Through Time,True
+Ignoble Hierarch,True
+Mishra's Bauble,True
+Bloodbraid Elf,True
+Arcbound Ravager,True
+Damn,True
+Mayhem Devil,True
+Scavenging Ooze,True
+Phyrexian Metamorph,True
+Grafted Wargear,True
+Vendilion Clique,True
+Usher of the Fallen,True
+Consider,True
+Cathar Commando,True
+Caves of Koilos,True
+Murderous Rider,True
+Chart a Course,True
+Baleful Strix,True
+Exploration,True
+Sedgemoor Witch,True
+Mana Confluence,True
+Restoration Angel,True
+Treetop Village,True
+Raging Ravine,True
+Stoneforge Mystic,True
+Liliana of the Veil,True
+Fyndhorn Elves,True
+Third Path Iconoclast,True
+Rabbit Battery,True
+Oblivion Ring,True
+Sunbaked Canyon,True
+Lurrus of the Dream-Den,True
+Creeping Tar Pit,True
+Bitterblossom,True
+"Thalia, Guardian of Thraben",True
+Toxic Deluge,True
+Life from the Loam,True
+Fiery Islet,True
+Horizon Canopy,True
+"Chandra, Torch of Defiance",True
+Fact or Fiction,True
+Fiend Artisan,True
+Call of the Herd,True
+Unholy Heat,True
+Portable Hole,True
+Fire // Ice,True
+"Kari Zev, Skyship Raider",True
+Retrofitter Foundry,True
+Incinerate,True
+Burst Lightning,True
+Fable of the Mirror-Breaker,True
+Sulfurous Springs,True
+Hangarback Walker,True
+Bonecrusher Giant,True
+Pyrite Spellbomb,True
+Flickerwisp,True
+Censor,True
+Scrapheap Scrounger,True
+"Takenuma, Abandoned Mire",True
+Loran of the Third Path,True
+Mazemind Tome,True
+Shark Typhoon,True
+"Jace, the Mind Sculptor",True
+"Jace, Vryn's Prodigy",True
+Remand,True
+Bomat Courier,True
+"Golos, Tireless Pilgrim",True
+Gingerbrute,True
+Solemn Simulacrum,True
+Goblin Guide,True
+Council's Judgment,True
+Feed the Swarm,True
+Electrostatic Infantry,True
+Rancor,True
+"Eiganjo, Seat of the Empire",True
+Gilded Goose,True
+Knight of the Reliquary,True
+Knight of Autumn,True
+Go for the Throat,True
+Voracious Hydra,True
+Force of Will,True
+Shivan Reef,True
+Noble Hierarch,True
+Treasure Cruise,True
+Cut Down,True
+Battlefield Forge,True
+"Elas il-Kor, Sadistic Pilgrim",True
+Porcelain Legionnaire,True
+Lightning Greaves,True
+Steel Overseer,True
+Lion Sash,True
+Llanowar Wastes,True
+Mesmeric Fiend,True
+Wild Growth,True
+Brushland,True
+Manamorphose,True
+Esika's Chariot,True
+Wall of Omens,True
+Satyr Wayfinder,True
+Infernal Grasp,True
+Priest of Fell Rites,True
+Wall of Roots,True
+Blade Splicer,True
+Sakura-Tribe Elder,True
+Legion's Landing,True
+Selfless Spirit,True
+Pia and Kiran Nalaar,True
+Aether Spellbomb,True
+"Emry, Lurker of the Loch",True
+Tectonic Edge,True
+Karplusan Forest,True
+"Karn, Scion of Urza",True
+"Liliana, the Last Hope",True
+Lose Focus,True
+Kitesail Freebooter,True
+Bala Ged Recovery,True
+Elvish Reclaimer,True
+Master of Death,True
+"Judith, the Scourge Diva",True
+Memory Lapse,True
+Journey to Nowhere,True
+Joraga Treespeaker,True
+"Jadar, Ghoulcaller of Nephalia",True
+Birthing Pod,True
+Lightning Helix,True
+Engineered Explosives,True
+Brazen Borrower,True
+Batterskull,True
+Selesnya Sanctuary,True
+Abundant Harvest,True
+Figure of Destiny,True
+Night's Whisper,True
+Ramunap Excavator,True
+Oracle of Mul Daya,True
+Prismatic Ending,True
+Recurring Nightmare,True
+Recruitment Officer,True
+Experiment One,True
+Mother of Runes,True
+Spirited Companion,True
+Expressive Iteration,True
+Reckoner Bankbuster,True
+Giant Killer,True
+Gruul Turf,True
+Giver of Runes,True
+"Grist, the Hunger Tide",True
+Wurmcoil Engine,True
+Murderous Cut,True
+Unexpectedly Absent,True
+Mutavault,True
+Green Sun's Zenith,True
+Arbor Elf,True
+Goblin Cratermaker,True
+Woe Strider,True
+Supreme Will,True
+Underground River,True
+Snuff Out,True
+Ravenous Squirrel,True
+Golgari Rot Farm,True
+Heroic Reinforcements,True
+Yavimaya Coast,True
+Prismari Command,True
+Hidden Stockpile,True
+Fireblast,True
+Esper Sentinel,True
+Flame Slash,True
+Flametongue Kavu,True
+Assassin's Trophy,True
+Cryptbreaker,True
+Flametongue Yearling,True
+Simic Growth Chamber,True
+Cast Out,True
+Nullpriest of Oblivion,True
+Stitcher's Supplier,True
+Force of Negation,True
+Touch the Spirit Realm,True
+Cathartic Pyre,True
+Ophiomancer,True
+Timeless Witness,True
+"Ragavan, Nimble Pilferer",True
+Condescend,True
+The Ozolith,True
+"Tormod, the Desecrator",True
+Knight of the Ebon Legion,True
+Crucible of Worlds,True
+The Underworld Cookbook,True
+Strip Mine,True
+Goblin Rabblemaster,True
+Fury,True
+Lethal Scheme,True
+Solitude,True
+Fateful Absence,True
+Tenacious Underdog,True
+Thespian's Stage,True
+Coiling Oracle,True
+Ledger Shredder,True
+Glimmer Lens,True
+Dimir Aqueduct,True
+"Saheeli, Sublime Artificer",True
+Containment Construct,True
+Gala Greeters,True
+Gitaxian Probe,True
+Courser of Kruphix,True
+Hymn to Tourach,True
+Bloodthirsty Adversary,True
+Kitchen Finks,True
+Urza's Bauble,True
+Tireless Provisioner,True
+Daze,True
+Izzet Charm,True
+Izzet Boilerworks,True
+"Urza, Lord High Artificer",True
+Brightclimb Pathway,True
+Deathrite Shaman,True
+Escape to the Wilds,True
+Intrepid Adversary,True
+Intangible Virtue,True
+Utopia Sprawl,True
+Shadowspear,True
+Inferno Titan,True
+Ethereal Forager,True
+Deadly Dispute,True
+Signal Pest,True
+Vault Skirge,True
+Impulse,True
+"Sidisi, Brood Tyrant",True
+Hellrider,True
+"Uro, Titan of Nature's Wrath",True
+"Sokenzan, Crucible of Defiance",True
+Heirloom Blade,True
+Bloodforged Battle-Axe,True
+"Daretti, Ingenious Iconoclast",True
+Survival of the Fittest,True
+Bloodsoaked Champion,True
+Tolarian Terror,True
+Kessig Wolf Run,True
+Hydroid Krasis,True
+Bloodtithe Harvester,True
+Grief,True
+Demonic Tutor,True
+"Chatterfang, Squirrel General",True
+"Slogurk, the Overslime",True
+Viscera Seer,True
+Tarmogoyf,True
+Bonesplitter,True
+Experimental Synthesizer,True
+Harrow,True
+Expedition Map,True
+Deep Analysis,True
+Everflowing Chalice,True
+The Reality Chip,True
+Mogg War Marshal,True
+Needleverge Pathway,True
+Raffine's Informant,True
+Myr Battlesphere,True
+Azorius Chancery,True
+Ravenous Chupacabra,True
+Primeval Titan,True
+Agonizing Remorse,True
+Battle Screech,True
+Bastion of Remembrance,True
+"Adeline, Resplendent Cathar",True
+Magmatic Channeler,True
+Magma Jet,True
+Animate Dead,True
+Orzhov Basilica,True
+"Magda, Brazen Outlaw",True
+Rip Apart,True
+Mystic Snake,True
+Mulldrifter,True
+Reanimate,True
+Myr Retriever,True
+Murmuring Mystic,True
+Necromancy,True
+Llanowar Visionary,True
+Watcher for Tomorrow,True
+Adarkar Wastes,True
+Once Upon a Time,True
+Rakdos Carnarium,True
+Memory Deluge,True
+"Otawara, Soaring City",True
+Worn Powerstone,True
+Riverglide Pathway,True
+Lotus Cobra,True
+Pelt Collector,False
+Poxwalkers,False
+Regrowth,False
+Reflector Mage,False
+Hengegate Pathway,False
+Price of Fame,False
+Pernicious Deed,False
+Unburial Rites,False
+Mortarpod,False
+Heartless Act,False
+Death's Shadow,False
+Patchwork Automaton,False
+Tidehollow Sculler,False
+Skullclamp,False
+Sylvan Caryatid,False
+Evolved Sleeper,False
+Sling-Gang Lieutenant,False
+Guardian Idol,False
+Exclude,False
+Growth Spiral,False
+Day of Judgment,False
+"Yorion, Sky Nomad",False
+Grim Flayer,False
+Upheaval,False
+Canyon Slough,False
+Pest Infestation,False
+Meteor Golem,False
+Incubation Druid,False
+Mimic Vat,False
+Burning-Tree Emissary,False
+"Mikaeus, the Lunarch",False
+Wilderness Reclamation,False
+Midnight Reaper,False
+Burn Down the House,False
+Electrolyze,False
+Mnemonic Sphere,False
+Metallic Mimic,False
+Inspiring Vantage,False
+Into the Roil,False
+Vengevine,False
+Serum Visions,False
+Adanto Vanguard,False
+Bring to Light,False
+Augur of Autumn,False
+Sheltered Thicket,False
+Bygone Bishop,False
+Elite Spellbinder,False
+Pestermite,False
+Aether Channeler,False
+Hissing Quagmire,False
+Mishra's Research Desk,False
+Tangle Wire,False
+Repulse,False
+Siege-Gang Commander,False
+Delver of Secrets,False
+Cankerbloom,False
+Elvish Mystic,False
+Vampiric Tutor,False
+Thrill of Possibility,False
+"Tasigur, the Golden Fang",False
+Tear Asunder,False
+Sheoldred's Edict,False
+Titan of Industry,False
+Pacifism,False
+Sword of Fire and Ice,False
+Angel of the Ruins,False
+Felidar Retreat,False
+Niv-Mizzet Reborn,False
+Opposition,False
+Altar of Dementia,False
+Staff of the Storyteller,False
+"Squee, Goblin Nabob",False
+Control Magic,False
+"Squee, Dubious Monarch",False
+Triskelion,False
+Cut // Ribbons,False
+Gaea's Cradle,False
+Ornithopter of Paradise,False
+Garruk Wildspeaker,False
+Gavony Township,False
+Rally the Peasants,False
+Forked Bolt,False
+Stirring Wildwood,False
+Yavimaya Elder,False
+Stoke the Flames,False
+Old Rutstein,False
+Ancestral Vision,False
+Sulfuric Vortex,False
+Fires of Yavimaya,False
+Fiery Temper,False
+Wrenn and Six,False
+Crawling Barrens,False
+Oni-Cult Anvil,False
+Field of Ruin,False
+Cultivate,False
+Ancient Tomb,False
+Fetid Pools,False
+"Radha, Heart of Keld",False
+Forbidden Alchemy,False
+Traverse the Ulvenwald,False
+Conclave Tribunal,False
+General Ferrous Rokiric,False
+Sneak Attack,False
+Umezawa's Jitte,False
+Clearwater Pathway,False
+Professional Face-Breaker,False
+"Nahiri, the Harbinger",False
+Clarion Spirit,False
+Citizen's Crowbar,False
+Mystical Tutor,False
+Explore,False
+Grand Coliseum,False
+Acidic Slime,False
+Grave Titan,False
+Yawgmoth's Will,False
+"Yawgmoth, Thran Physician",False
+Witherbloom Command,False
+Dauntless Bodyguard,False
+Chromatic Sphere,False
+Goblin Welder,False
+Darkbore Pathway,False
+Spellskite,False
+Prophetic Bolt,False
+Spellseeker,False
+Wood Elves,False
+"Gideon, Ally of Zendikar",False
+Spell Pierce,False
+Combat Courier,False
+Twinshot Sniper,False
+Rampant Growth,False
+Dark Depths,False
+"Rankle, Master of Pranks",False
+Soul of Windgrace,False
+Arc Lightning,False
+Dark Ritual,False
+Goblin Engineer,False
+Cloud of Faeries,False
+Ulcerate,False
+Irrigated Farmland,False
+Ominous Seas,False
+Discovery // Dispersal,False
+Lightning Strike,False
+Vindicate,False
+Search for Tomorrow,False
+Mana Tithe,False
+Rishadan Port,False
+Voice of Resurgence,False
+Think Twice,False
+Barkchannel Pathway,False
+"Lonis, Cryptozoologist",False
+Boros Garrison,False
+"Thalia, Heretic Cathar",False
+Terminate,False
+Make Disappear,False
+Battle Cry Goblin,False
+"Jaxis, the Troublemaker",False
+Leyline Binding,False
+The Wandering Emperor,False
+Search for Azcanta,False
+Beanstalk Giant,False
+Balance,False
+"Balmor, Battlemage Captain",False
+Robber of the Rich,False
+Thalia and The Gitrog Monster,False
+The Meathook Massacre,False
+Scrap Trawler,False
+Light Up the Stage,False
+Maelstrom Pulse,False
+Beast Within,False
+Terramorphic Expanse,False
+Masked Vandal,False
+"Rofellos, Llanowar Emissary",False
+Kabira Takedown,False
+"Rishkar, Peema Renegade",False
+"Baral, Chief of Compliance",False
+Lumbering Falls,False
+Blightstep Pathway,False
+Pithing Needle,False
+"Kytheon, Hero of Akros",False
+Whirler Rogue,False
+Abbot of Keral Keep,False
+Binding the Old Gods,False
+Thought Monitor,False
+Eater of Virtue,False
+Earthshaker Khenra,False
+Awaken the Woods,False
+Conduit of Worlds,False
+Neutralize,False
+Volrath's Stronghold,False
+Nighthawk Scavenger,False
+Rotting Regisaur,False
+Managorger Hydra,False
+Anje's Ravager,False
+Surge Engine,False
+Mystic Confluence,False
+Spirebluff Canal,False
+Supreme Verdict,False
+Thirst for Knowledge,False
+Khenra Spellspear,False
+Archaeomancer,False
+"Nissa, Voice of Zendikar",False
+Feldon of the Third Path,False
+Circular Logic,False
+King Darien XLVIII,False
+Thermo-Alchemist,False
+Fractured Identity,False
+Cityscape Leveler,False
+"Lagomos, Hand of Hatred",False
+Steel Seraph,False
+Banishing Light,False
+Mythos of Nethroi,False
+"Grumgully, the Generous",False
+Zurgo Bellstriker,False
+Treasure Map,False
+Dress Down,False
+Grizzly Fate,False
+Multiple Choice,False
+Murder,False
+Dragonlord Atarka,False
+Tinker,False
+"Yoshimaru, Ever Faithful",False
+Wedding Announcement,False
+Prosperous Innkeeper,False
+Foundation Breaker,False
+Smokestack,False
+Lavaclaw Reaches,False
+Dauthi Voidwalker,False
+Underworld Breach,False
+Farseek,False
+Blooming Marsh,False
+Gamble,False
+Snap,False
+Weathered Wayfarer,False
+"Kess, Dissident Mage",False
+Arcbound Prototype,False
+Dragonsguard Elite,False
+Blightning,False
+Expunge,False
+Basri's Lieutenant,False
+Bloated Contaminator,False
+Kogla and Yidaro,False
+Coercive Portal,False
+Concealed Courtyard,False
+Cogwork Librarian,False
+Faerie Guidemother,False
+Ranger Class,False
+Tolarian Academy,False
+Glass Casket,False
+"Alesha, Who Smiles at Death",False
+"Gix, Yawgmoth Praetor",False
+Ghitu Encampment,False
+Staggershock,False
+Copperline Gorge,False
+Colossal Skyturtle,False
+Magmatic Sinkhole,False
+Kor Skyfisher,False
+Prophetic Prism,False
+Leonin Lightscribe,False
+Spectral Procession,False
+Blast Zone,False
+Spell Queller,False
+Abrupt Decay,False
+Sprout Swarm,False
+Gnarlwood Dryad,False
+Soul-Scar Mage,False
+Thassa's Intervention,False
+"Rona, Herald of Invasion",False
+Raven's Crime,False
+Fauna Shaman,False
+Living Death,False
+Scheming Fence,False
+"Krenko, Tin Street Kingpin",False
+Kird Ape,False
+Falkenrath Pit Fighter,False
+Weaponize the Monsters,False
+Song of the Dryads,False
+Goblin Trenches,False
+Spikefield Hazard,False
+Clifftop Retreat,False
+Faerie Conclave,False
+Dark-Dweller Oracle,False
+Sorin the Mirthless,False
+Man-o'-War,False
+Thing in the Ice,False
+Beast Attack,False
+Wayfarer's Bauble,False
+Woodland Cemetery,False
+Arc Trail,False
+Basking Rootwalla,False
+Sphinx's Revelation,False
+Goblin Anarchomancer,False
+Isolated Chapel,False
+Guttersnipe,False
+Sundering Titan,False
+Asmoranomardicadaistinaculdacar,False
+"Jan Jansen, Chaos Crafter",False
+Quandrix Command,False
+Tendrils of Agony,False
+Improbable Alliance,False
+Abzan Falconer,False
+Wandering Mind,False
+Seeker of the Way,False
+Crop Rotation,False
+"Elspeth, Sun's Champion",False
+Lodestone Golem,False
+Mirage Mirror,False
+Icy Manipulator,False
+Shock,False
+Mirari's Wake,False
+Ichor Wellspring,False
+Elves of Deep Shadow,False
+Showdown of the Skalds,False
+Mire Triton,False
+Callous Dismissal,False
+Wheel of Fortune,False
+Fiery Confluence,False
+Mawloc,False
+Maul of the Skyclaves,False
+Secure the Wastes,False
+Huntmaster of the Fells,False
+Crystal Shard,False
+"Jinnie Fay, Jetmir's Second",False
+Crystalline Crawler,False
+Blackcleave Cliffs,False
+Eliminate,False
+Wandering Fumarole,False
+Pile On,False
+Subtlety,False
+Filigree Familiar,False
+Mercurial Spelldancer,False
+"Brimaz, King of Oreskos",False
+Qasali Pridemage,False
+Serra Paragon,False
+Cryptic Command,False
+Breya's Apprentice,False
+Mental Note,False
+Zealous Conscripts,False
+Thragtusk,False
+Merfolk Looter,False
+The Restoration of Eiganjo,False
+Thran Dynamo,False
+Phyrexian Tower,False
+"Braids, Arisen Nightmare",False
+Rift Bolt,False
+Memory Jar,False
+Brutal Cathar,False
+Student of Warfare,False
+"Jace, Wielder of Mysteries",False
+Inscription of Abundance,False
+Branchloft Pathway,False
+Quandrix Apprentice,False
+Shambling Vent,False
+Jack-o'-Lantern,False
+Brainstone,False
+Brain Maggot,False
+Brain Freeze,False
+Pyroclasm,False
+Strategic Planning,False
+Embercleave,False
+"Traxos, Scourge of Kroog",False
+Skinrender,False
+Perilous Myr,False
+Cranial Plating,False
+Hooting Mandrills,False
+Sun Titan,False
+Kaito Shizuki,False
+Cragcrown Pathway,False
+Seal of Cleansing,False
+"Sai, Master Thopterist",False
+Rite of Oblivion,False
+You Find Some Prisoners,False
+Haughty Djinn,False
+Skyclave Shade,False
+"Plargg, Dean of Chaos",False
+Hardened Scales,False
+Yotian Frontliner,False
+"Chandra, Acolyte of Flame",False
+Kari Zev's Expertise,False
+Reckless Impulse,False
+Welcoming Vampire,False
+"Torens, Fist of the Angels",False
+Gutterbones,False
+"Gut, True Soul Zealot",False
+Gurmag Angler,False
+Evolving Wilds,False
+Slimefoot and Squee,False
+"Juri, Master of the Revue",False
+Lunarch Veteran,False
+Entomb,False
+"Omnath, Locus of Creation",False
+Honored Hydra,False
+Embereth Shieldbreaker,False
+Emergent Sequence,False
+Careful Study,False
+"Anafenza, Kin-Tree Spirit",False
+Valakut Exploration,False
+"Emrakul, the Promised End",False
+Simian Simulacrum,False
+Seasons Past,False
+Pilgrim's Eye,False
+Borborygmos and Fblthp,False
+Mizzium Tank,False
+"Vraska, Golgari Queen",False
+Quirion Beastcaller,False
+The Raven Man,False
+Wall of Blossoms,False
+Enlightened Tutor,False
+Village Rites,False
+Hieroglyphic Illumination,False
+Seasoned Hallowblade,False
+Searing Blaze,False
+Windfall,False
+The Immortal Sun,False
+Protect the Negotiators,False
+The Mightstone and Weakstone,False
+Fearless Fledgling,False
+Domri's Ambush,False
+Fellwar Stone,False
+"Fblthp, the Lost",False
+Fertile Ground,False
+Putrid Imp,False
+The Mycosynth Gardens,False
+The Eldest Reborn,False
+"Domri, Anarch of Bolas",False
+Psychatog,False
+Sulfur Falls,False
+Dread Return,False
+Play with Fire,False
+Eternal Dragon,False
+Dryad of the Ilysian Grove,False
+Dryad Militant,False
+Empty the Warrens,False
+"Emrakul, the Aeons Torn",False
+Enclave Cryptologist,False
+Endless One,False
+Ensnaring Bridge,False
+Tainted Indulgence,False
+Environmental Sciences,False
+Epochrasite,False
+"Erinis, Gloom Stalker",False
+Ertai Resurrected,False
+Syncopate,False
+Predator's Howl,False
+Dryad Greenseeker,False
+Dryad's Revival,False
+Powder Keg,False
+Tarfire,False
+Earthquake,False
+Eidolon of the Great Revel,False
+Phyrexian Fleshgorger,False
+Phyrexian Dragon Engine,False
+"Teferi, Time Raveler",False
+"Teferi, Temporal Pilgrim",False
+Electrodominance,False
+"Teferi, Hero of Dominaria",False
+Phantasmal Image,False
+Temur Battle Rage,False
+"Elesh Norn, Grand Cenobite",False
+Dust Bowl,False
+Duskwatch Recruiter,False
+Duplicant,False
+Phyrexian Altar,False
+Parallax Wave,False
+Territorial Kavu,False
+Dragonlord Silumgar,False
+Sylvan Advocate,False
+Plains,False
+"Ozolith, the Shattered Spire",False
+Oust,False
+Oswald Fiddlebender,False
+Faerie Mastermind,False
+Drake Haven,False
+Faerie Vandal,False
+Dragonwing Glider,False
+"Oskar, Rubbish Reclaimer",False
+Faithless Salvaging,False
+"Faldorn, Dread Wolf Herald",False
+Falkenrath Aristocrat,False
+Falkenrath Gorger,False
+Dragonskull Summit,False
+Orzhov Pontiff,False
+Plague Engineer,False
+Thalia's Lieutenant,False
+Edge of Autumn,False
+"Teshar, Ancestor's Apostle",False
+Drossforge Bridge,False
+Prime Speaker Vannifar,False
+Palladium Myr,False
+Evolution Sage,False
+Exalted Angel,False
+Palace Jailer,False
+Executioner's Capsule,False
+Dread Wanderer,False
+Tezzeret's Gambit,False
+Exhume,False
+Dreadhorde Butcher,False
+Plow Under,False
+Dreadbore,False
+Prismatic Lens,False
+Talisman of Creativity,False
+Lizard Blades,False
+Finale of Devastation,False
+Irencrag Pyromancer,False
+Incendiary Flow,False
+Militia Bugler,False
+Ingenious Smith,False
+Midnight Clock,False
+Shadowmage Infiltrator,False
+Inspiring Overseer,False
+Ridgescale Tusker,False
+Merfolk Secretkeeper,False
+Invasion of Amonkhet,False
+Invasion of Kaldheim,False
+Settle the Wreckage,False
+Merfolk Branchwalker,False
+Momentary Blink,False
+Iron Apprentice,False
+Serene Steward,False
+Island,False
+Isochron Scepter,False
+Sensei's Divining Top,False
+Mentor of the Meek,False
+Izzet Signet,False
+Selesnya Signet,False
+Memnite,False
+Rimrock Knight,False
+Jade Mage,False
+"Mina and Denn, Wildborn",False
+Return to Nature,False
+Imperial Recruiter,False
+Shepherd of the Flock,False
+Hexgold Halberd,False
+Moan of the Unhallowed,False
+Mizzix's Mastery,False
+Simic Signet,False
+Renegade Rallier,False
+High Tide,False
+Hinterland Harbor,False
+Mission Briefing,False
+History of Benalia,False
+Hobblefiend,False
+"Hogaak, Arisen Necropolis",False
+Hollow One,False
+Hopeful Initiate,False
+Hostage Taker,False
+Mirrorhall Mimic,False
+Sicarian Infiltrator,False
+Mirror Entity,False
+Resolute Reinforcements,False
+Hystrodon,False
+Ichor Slick,False
+Mindslaver,False
+Shimmerdrift Vale,False
+"Shigeki, Jukai Visionary",False
+Jadelight Ranger,False
+Sejiri Shelter,False
+"Jaya, Fiery Negotiator",False
+Rootbound Crag,False
+Scattered Groves,False
+Rootcoil Creeper,False
+Kor Haven,False
+"Korvold, Fae-Cursed King",False
+Krark-Clan Ironworks,False
+Krosan Tusker,False
+"Kroxa, Titan of Death's Hunger",False
+Laboratory Maniac,False
+Lava Dart,False
+Sanctuary Warden,False
+Legion Warboss,False
+"Liberator, Urza's Battlethopter",False
+Maelstrom Wanderer,False
+Life // Death,False
+Lightning Axe,False
+Rout,False
+"Lutri, the Spellchaser",False
+Lorehold Command,False
+Lore Seeker,False
+Lim-Dûl's Vault,False
+Looter il-Kor,False
+Liquimetal Torque,False
+Lithoform Engine,False
+Malakir Rebirth,False
+"Kiora, Behemoth Beckoner",False
+Seismic Assault,False
+Mana Vault,False
+"Jegantha, the Wellspring",False
+Jeskai Ascendancy,False
+Joint Exploration,False
+Rise from the Tides,False
+Masticore,False
+Master of the Wild Hunt,False
+Seal of Removal,False
+Seal of Fire,False
+Seal Away,False
+Sea Gate Stormcaller,False
+Karmic Guide,False
+Karn Liberated,False
+Mardu Woe-Reaper,False
+"Kasmina, Enigmatic Mentor",False
+Kavu Titan,False
+Rockfall Vale,False
+Scrabbling Claws,False
+Scourge of the Skyclaves,False
+"Keruga, the Macrosage",False
+Kessig Cagebreakers,False
+Roil Eruption,False
+"Kiki-Jiki, Mirror Breaker",False
+Scholar of New Horizons,False
+Hexdrinker,False
+Hex Parasite,False
+Sublime Epiphany,False
+Spider Spawning,False
+Sprite Dragon,False
+Future Sight,False
+Rakdos Signet,False
+Splinter Twin,False
+Galvanic Blast,False
+Spiteful Prankster,False
+Garruk Relentless,False
+Spiritmonger,False
+Geist of Saint Traft,False
+Gemstone Mine,False
+Genesis,False
+Ghor-Clan Rampager,False
+"Mondrak, Glory Dominus",False
+Spellstutter Sprite,False
+Ghostly Pilferer,False
+Gideon Blackblade,False
+Negate,False
+Gilded Lotus,False
+Needle Spires,False
+Sparring Construct,False
+Glasspool Mimic,False
+Ramunap Ruins,False
+Ranger-Captain of Eos,False
+Glissa Sunslayer,False
+Rakdos Cackler,False
+Fungal Rebirth,False
+Start // Finish,False
+Nightpack Ambusher,False
+Stubborn Denial,False
+Stroke of Genius,False
+"Oko, Thief of Crowns",False
+Flame Jab,False
+Questing Beast,False
+Stream of Thought,False
+Occult Epiphany,False
+Obsessive Search,False
+Oblivion Stone,False
+Fleetwheel Cruiser,False
+Fleshtaker,False
+Oath of Druids,False
+Stonecloaker,False
+Forbid,False
+Radiant's Judgment,False
+Force Spike,False
+Noxious Gearhulk,False
+Noble's Purse,False
+"Raffine, Scheming Seer",False
+Step Through,False
+"Nissa, Who Shakes the World",False
+Foundry Inspector,False
+Ninja of the Deep Hours,False
+Glorybringer,False
+Natural Order,False
+Goblin Bushwhacker,False
+"Gyruda, Doom of Depths",False
+"Skysovereign, Consul Flagship",False
+Skymarcher Aspirant,False
+Skyfisher Spider,False
+Mox Diamond,False
+Recommission,False
+Mountain,False
+Recruiter of the Guard,False
+Haunted Ridge,False
+Haywire Mite,False
+"Skrelv, Defector Mite",False
+Heartfire,False
+Mortify,False
+Heartfire Immolator,False
+Hedron Archive,False
+Skitterbeam Battalion,False
+"Moraug, Fury of Akoum",False
+Skirk Marauder,False
+Moonsilver Key,False
+Reinforced Ronin,False
+Relentless Dead,False
+Herald of Anafenza,False
+Hero's Downfall,False
+Monoskelion,False
+Reckless Stormseeker,False
+Sleight of Hand,False
+"Narset, Parter of Veils",False
+Guardian Scalelord,False
+Nantuko Husk,False
+Goblin Sharpshooter,False
+Song-Mad Treachery,False
+Goblin Wizardry,False
+Goldvein Pick,False
+Golgari Signet,False
+Mystic Forge,False
+Grapple with the Past,False
+Graveblade Marauder,False
+Razorlash Transmogrant,False
+Razortide Bridge,False
+Snakeskin Veil,False
+Razorverge Thicket,False
+Smother,False
+Mutagenic Growth,False
+Murktide Regent,False
+Murderous Redcap,False
+Grim Monolith,False
+Grinning Ignus,False
+Smell Fear,False
+Reassembling Skeleton,False
+Gruul Signet,False
+Reckless Charge,False
+Shadow Prophecy,False
+A Little Chat,False
+Forest,False
+Dakmor Salvage,False
+Avacyn's Judgment,False
+Avacyn's Pilgrim,False
+Wild Mongrel,False
+Whitemane Lion,False
+Whirlwind Denial,False
+Avenger of Zendikar,False
+"Ayara, Widow of the Realm",False
+Azorius Signet,False
+Bag of Holding,False
+Baleful Mastery,False
+Bane of the Living,False
+Bannerhide Krushok,False
+Baral and Kari Zev,False
+Barbed Spike,False
+"Atraxa, Grand Unifier",False
+Basalt Monolith,False
+Become Immense,False
+Cursed Mirror,False
+Bedlam Reveler,False
+Beetleback Chief,False
+Curator of Mysteries,False
+Torrential Gearhulk,False
+Biophagus,False
+Cult Conscript,False
+Black Market Tycoon,False
+Blastoderm,False
+Blazing Rootwalla,False
+Blazing Specter,False
+Wildfire,False
+Asylum Visitor,False
+Cruel Ultimatum,False
+Archon of Cruelty,False
+Worldly Tutor,False
+Deranged Assistant,False
+Anger,False
+Depopulate,False
+Anguished Unmaking,False
+Approach of the Second Sun,False
+Throne of Geth,False
+Arcbound Tracker,False
+Arcbound Worker,False
+Archaeomender,False
+Archfiend of Ifnir,False
+Archmage Emeritus,False
+Decree of Justice,False
+Winter Orb,False
+Willow Geist,False
+Armageddon,False
+Arni Brokenbrow,False
+Winds of Rebuke,False
+Winds of Abandon,False
+Ascendant Packleader,False
+Winding Way,False
+Winding Constrictor,False
+"Tibalt, Rakish Instigator",False
+Time Spiral,False
+Ashnod's Harvester,False
+Deal Broker,False
+Wilt,False
+Timeless Dragon,False
+"Vraan, Executioner Thane",False
+Voldaren Epicure,False
+Ancient Stone Idol,False
+"Ugin, the Spirit Dragon",False
+"Valki, God of Lies",False
+Cast Down,False
+Cathodion,False
+Collected Company,False
+Cavalier of Gales,False
+Cemetery Prowler,False
+"Urborg, Tomb of Yawgmoth",False
+"Tyvar, Jubilant Brawler",False
+Urborg Repossession,False
+Chainer's Edict,False
+"Chainer, Nightmare Adept",False
+Coalition Relic,False
+Urabrask's Forge,False
+Chamber Sentry,False
+Compulsion,False
+Champion of Wits,False
+Channel,False
+Ultimate Price,False
+Ulvenwald Oddity,False
+Ulvenwald Tracker,False
+Charging Monstrosaur,False
+Charming Prince,False
+Unleash the Inferno,False
+Chatterstorm,False
+Claim the Firstborn,False
+Chrome Host Seedshark,False
+Chrome Mox,False
+Chronomaton,False
+Callous Bloodmage,False
+Call the Bloodline,False
+"Vohar, Vodalian Desecrator",False
+"Braids, Cabal Minion",False
+Vizier of Tumbling Sands,False
+Travel Preparations,False
+Treachery,False
+Bone Shredder,False
+Boros Signet,False
+Triarch Praetorian,False
+Vigor Mortis,False
+Victimize,False
+Tribal Flames,False
+Tribute Mage,False
+Botanical Sanctum,False
+Bow of Nylea,False
+"Brago, King Eternal",False
+Bramble Sovereign,False
+Conclave Mentor,False
+Break Ties,False
+Brimstone Volley,False
+"Venser, Shaper Savant",False
+Conspiracy Theorist,False
+Brought Back,False
+Venerated Loxodon,False
+Brushfire Elemental,False
+Connive // Concoct,False
+Buried Alive,False
+Conjurer's Bauble,False
+Buried Ruin,False
+Condemn,False
+By Invitation Only,False
+Angel of Despair,False
+Curse of Predation,False
+Wren's Run Hydra,False
+Dissipate,False
+Detention Sphere,False
+"Alandra, Sky Dreamer",False
+Dimir Signet,False
+Academy Rector,False
+"Anafenza, the Foremost",False
+Disenchant,False
+Yasova Dragonclaw,False
+Ahn-Crop Crasher,False
+Wrenn and Realmbreaker,False
+Devoted Druid,False
+"Zabaz, the Glimmerwasp",False
+Dismissive Pyromancer,False
+Dire Fleet Daredevil,False
+Agadeem's Awakening,False
+Wrenn and Seven,False
+"Anax, Hardened in the Forge",False
+Digsite Engineer,False
+Displacer Kitten,False
+Worm Harvest,False
+Academy Manufactor,False
+Thought Erasure,False
+Bribery,False
+"Isamaru, Hound of Konda",False
+Invoke Despair,False
+Isareth the Awakener,False
+Invigorating Hot Spring,False
+Brittle Effigy,False
+Briarbridge Tracker,False
+Verdurous Gearhulk,False
+Verge Rangers,False
+"Iymrith, Desert Doom",False
+Selesnya Charm,False
+Bramblewood Paragon,False
+Prepare // Fight,False
+Jackal Pup,False
+"Jacob Hauken, Inspector",False
+Patrol Hound,False
+Agent of Treachery,False
+"Jaheira, Friend of the Forest",False
+Jaspera Sentinel,False
+You See a Pair of Goblins,False
+Seize the Spoils,False
+Bound in Gold,False
+Invigorate,False
+"Ob Nixilis, the Adversary",False
+Inventors' Fair,False
+Vendetta,False
+Dockside Chef,False
+Inscription of Ruin,False
+"Yuriko, the Tiger's Shadow",False
+Shambling Ghast,False
+Inkmoth Nexus,False
+Inkling Summoning,False
+Shambling Suit,False
+Burning Vengeance,False
+Shatterskull Smashing,False
+Shelldock Isle,False
+Bushwhack,False
+Power Word Kill,False
+Shelter,False
+Butcher of the Horde,False
+Aether Searcher,False
+Insolent Neonate,False
+Peregrine Drake,False
+Invasion of Tolvada,False
+Bubble Snare,False
+Invasion of Segovia,False
+Seething Song,False
+Broken Wings,False
+Invasion of Ikoria,False
+Shadow of Mortality,False
+Intuition,False
+"Aeve, Progenitor Ooze",False
+Introduction to Prophecy,False
+Introduction to Annihilation,False
+Brotherhood's End,False
+Shadowgrange Archfiend,False
+Integrity // Intervention,False
+Pegasus Stampede,False
+Precursor Golem,False
+Aethersphere Harvester,False
+Peace Strider,False
+Part the Waterveil,False
+Vicious Offering,False
+Scourge of Nel Toth,False
+"Keskit, the Flesh Sculptor",False
+Blossom Prancer,False
+"Kenrith, the Returned King",False
+Scout the Wilderness,False
+"Vivien, Monsters' Advocate",False
+Blossoming Sands,False
+Body Double,False
+Scrapwork Cohort,False
+Keldon Champion,False
+Kazuul's Fury,False
+Scroll Rack,False
+Vivid Meadow,False
+Vivid Marsh,False
+Bolas's Citadel,False
+Scurry Oak,False
+Ainok Survivalist,False
+Scoured Barrens,False
+Primal Adversary,False
+Scour All Possibilities,False
+Blistering Firecat,False
+Voldaren Bloodcaster,False
+Volcanic Spite,False
+Scatter to the Winds,False
+Blood for Bones,False
+Blood on the Snow,False
+Bloodfell Caves,False
+Primordial Mist,False
+Bloodline Pretender,False
+Scion of Draco,False
+Bloodlord of Vaasgoth,False
+Khalni Ambush,False
+Scorched Rusalka,False
+Bloodsky Berserker,False
+"Kethis, the Hidden Hand",False
+Vivid Grove,False
+Vivid Creek,False
+Vivid Crag,False
+Kargan Intimidator,False
+Jungle Hollow,False
+Jungle Barrier,False
+Boon of the Wish-Giver,False
+Boros Charm,False
+"Jori En, Ruin Diver",False
+Join the Dance,False
+Second Sunrise,False
+Jilt,False
+"Jhoira, Weatherlight Captain",False
+Paradise Druid,False
+Jewel Thief,False
+Primal Might,False
+"Viconia, Drow Apostate",False
+Park Heights Pegasus,False
+Pest Summoning,False
+Searing Spear,False
+"Junji, the Midnight Sky",False
+Boomerang,False
+Ainok Bond-Kin,False
+Palinchron,False
+"Karador, Ghost Chieftain",False
+Sea Gate Wreckage,False
+Seachrome Coast,False
+"Kambal, Consul of Allocation",False
+"Kamahl, Fist of Krosa",False
+"Kalitas, Traitor of Ghet",False
+Villainous Wealth,False
+Visara the Dreadful,False
+Kaleidoscorch,False
+Kaldra Compleat,False
+Pandemonium,False
+"Kaheera, the Orphanguard",False
+Violent Eruption,False
+In Too Deep,False
+Shipwreck Marsh,False
+Imposing Sovereign,False
+Guiding Voice,False
+Hammer of Bogardan,False
+"Halvar, God of Battle",False
+Halo Forager,False
+"Chandra, Flamecaller",False
+Hall of Oracles,False
+Slagwoods Bridge,False
+Hagra Mauling,False
+Slaying Fire,False
+Changeling Berserker,False
+Unmask,False
+Gut Shot,False
+Gush,False
+Abzan Charm,False
+Chaos Defiler,False
+Slice and Dice,False
+Champion of the Parish,False
+Hanweir Garrison,False
+Champion of Rhonas,False
+Phyrexian Processor,False
+Zenith Chronicler,False
+Phyrexian Missionary,False
+Urborg Lhurgoyf,False
+Skull Prophet,False
+Hazoret the Fervent,False
+Phyrexian Plaguelord,False
+Haunted Dead,False
+Untethered Express,False
+Phyrexian Rager,False
+Phyrexian Reclamation,False
+Access Tunnel,False
+Academy Ruins,False
+Harmonize,False
+Harmonic Prodigy,False
+Guild Globe,False
+Guardian of Ghirapur,False
+"Cadira, Caller of the Small",False
+Unlicensed Hearse,False
+Chromatic Lantern,False
+Zombify,False
+Graveshifter,False
+Chromatic Orrery,False
+Graven Cairns,False
+Plaza of Heroes,False
+Snow-Covered Forest,False
+Plaguecrafter,False
+Grave Upheaval,False
+Absorb,False
+Grateful Apparition,False
+Snow-Covered Island,False
+Snow-Covered Mountain,False
+Snow-Covered Plains,False
+Grasp of Darkness,False
+Greater Gargadon,False
+Greater Sandwurm,False
+Chord of Calling,False
+Grisly Sigil,False
+Pollenbright Druid,False
+Poison the Cup,False
+Plundering Barbarian,False
+"Zirda, the Dawnwaker",False
+Plumb the Forbidden,False
+Unicycle,False
+Grisly Salvage,False
+Choking Miasma,False
+"Chevill, Bane of Monsters",False
+Smiting Helix,False
+Chief of the Foundry,False
+Chimeric Idol,False
+Smoldering Crater,False
+Smoldering Egg,False
+Cephalid Coliseum,False
+Skrelv's Hive,False
+Urborg Scavengers,False
+Skittering Surveyor,False
+Phantom Nishoba,False
+Hypnotic Specter,False
+Shrine of Burning Rage,False
+Shrine of Loyal Legions,False
+Vampire Nighthawk,False
+"Shu Yun, the Silent Tempest",False
+Vampire Lacerator,False
+Vampire Hexmage,False
+Siege Rhino,False
+Hunt for Specimens,False
+Hungering Hydra,False
+Valorous Stance,False
+Sifter of Skulls,False
+Howlpack Piper,False
+Capsize,False
+Shrieking Affliction,False
+Portent,False
+Ice-Fang Coatl,False
+Shivan Devastator,False
+"Sheoldred, the Apocalypse",False
+Immersturm Predator,False
+Shipwreck Dowser,False
+Illuminator Virtuoso,False
+Aisha of Sparks and Smoke,False
+"Ilharg, the Raze-Boar",False
+Shivan Fire,False
+Caller of the Claw,False
+Igneous Inspiration,False
+Caldaia Guardian,False
+Calibrated Blast,False
+Vanish into Memory,False
+Aether Hub,False
+Icehide Golem,False
+Horror of the Broken Lands,False
+Hornet Queen,False
+Captain Ripley Vance,False
+Skinthinner,False
+Phyrexian Arena,False
+Cauldron Familiar,False
+Zealous Persecution,False
+Act of Aggression,False
+Cavalier of Night,False
+Hero of the Dunes,False
+Henrika Domnathi,False
+"Sisay, Weatherlight Captain",False
+Cavern of Souls,False
+Cemetery Gatekeeper,False
+"Heliod, Sun-Crowned",False
+"Zellix, Sanity Flayer",False
+Heir of Falkenrath,False
+Cemetery Reaper,False
+Cathartic Reunion,False
+"Urza, Lord Protector",False
+Captain Sisay,False
+Hofri Ghostforge,False
+Hordeling Outburst,False
+Phantom Nomad,False
+Hope of Ghirapur,False
+Valiant Rescuer,False
+Silverbluff Bridge,False
+Silverflame Squire,False
+Carnage Tyrant,False
+Casualties of War,False
+Hive of the Eye Tyrant,False
+Carnophage,False
+Cartel Aristocrat,False
+Phoenix Chick,False
+Utter End,False
+Sin Collector,False
+Scalding Cauldron,False
+Kumano Faces Kakkazan,False
+Blinkmoth Nexus,False
+Mogg Fanatic,False
+"Winota, Joiner of Forces",False
+"Arlinn, the Pack's Hope",False
+Quakefoot Cyclops,False
+"Armix, Filigree Thrasher",False
+Morphling,False
+Reflecting Pool,False
+Morbid Opportunist,False
+Arrogant Wurm,False
+Moon-Circuit Hacker,False
+"Olivia, Crimson Bride",False
+Monk of the Open Hand,False
+Windrider Wizard,False
+Pyrokinesis,False
+"Ashaya, Soul of the Wild",False
+Remorseful Cleric,False
+Wrench Mind,False
+Argentum Masticore,False
+Mox Opal,False
+Oketra's Monument,False
+Ojutai Exemplars,False
+Mycosynth Wellspring,False
+Read the Bones,False
+Witching Well,False
+"Ojutai, Soul of Winter",False
+Archmage's Charm,False
+Witch's Oven,False
+Ardenvale Tactician,False
+Witch's Cauldron,False
+Arclight Phoenix,False
+Arcum's Astrolabe,False
+"Mu Yanling, Sky Dancer",False
+Mox Tantalite,False
+Reckless Bushwhacker,False
+Ashen Rider,False
+Remove Soul,False
+Michiko's Reign of Truth,False
+Mockery of Nature,False
+"Xanathar, Guild Kingpin",False
+Atarka's Command,False
+Mirri's Guile,False
+Response // Resurgence,False
+"Atarka, World Render",False
+Opulent Palace,False
+Miraculous Recovery,False
+Mine Collapse,False
+"Atsushi, the Blazing Sky",False
+Wildfire Devils,False
+Attunement,False
+Ambuscade,False
+Mimic,False
+Reveillark,False
+Auramancer,False
+Willbender,False
+Astral Drift,False
+Replenish,False
+Once and Future,False
+Windcaller Aven,False
+Windborn Muse,False
+Renegade Freighter,False
+Wind-Scarred Crag,False
+"Ashiok, Nightmare Weaver",False
+Mizzium Mortars,False
+"Aminatou, the Fateshifter",False
+Aminatou's Augury,False
+Mistvein Borderpost,False
+Mistvault Bridge,False
+Mist-Syndicate Naga,False
+Pteramander,False
+Repeal,False
+Assault Formation,False
+Myr Enforcer,False
+Archangel Elspeth,False
+"Oji, the Exquisite Blade",False
+Mystic Genesis,False
+"Nissa, Steward of Elements",False
+"Nissa, Ascended Animist",False
+Anger of the Gods,False
+Raid Bombardment,False
+Angler Drake,False
+Nihil Spellbomb,False
+Ancient Excavation,False
+Nightscape Familiar,False
+Woodland Champion,False
+Nightmare Shepherd,False
+Ancient Copper Dragon,False
+Woodfall Primus,False
+Animation Module,False
+Night Scythe,False
+Rakdos Charm,False
+Quicksand,False
+"Nissa, Vital Force",False
+Angelic Purge,False
+Radical Idea,False
+Ancient Silver Dragon,False
+Radha's Firebrand,False
+Ancient Grudge,False
+Radiant Scrollwielder,False
+Ancient Greenwarden,False
+Angel of Invention,False
+"Raff, Weatherlight Stalwart",False
+Workshop Warchief,False
+Norn's Inquisitor,False
+Noosegraf Mob,False
+"Obosh, the Preypiercer",False
+Noose Constrictor,False
+Nomad Outpost,False
+Noise Marine,False
+Night Incarnate,False
+Nevinyrral's Disk,False
+Annex Sentry,False
+Mythos of Illuna,False
+"Najeela, the Blade-Blossom",False
+Nahiri's Warcrafting,False
+"Nadier, Agent of the Duskenel",False
+Arcbound Javelineer,False
+Ravenous Baloth,False
+Arcbound Mouser,False
+Arcbound Shikari,False
+Nantuko Vigilante,False
+Myth Realized,False
+Withered Wretch,False
+Queen Marchesa,False
+Queen Kayla bin-Kroog,False
+Mystic Redaction,False
+Mystic Monastery,False
+Nameless Inversion,False
+"Nashi, Moon's Legacy",False
+Nettle Drone,False
+Wolfir Avenger,False
+Nested Shambler,False
+Nekrataal,False
+Anointed Procession,False
+Wonder,False
+Necron Deathmark,False
+Wolfwillow Haven,False
+Apostle's Blessing,False
+Arboreal Grazer,False
+Apprentice Necromancer,False
+Quench,False
+Nature's Lore,False
+"Ognis, the Dragon's Lash",False
+Nature's Chant,False
+Naturalize,False
+Midnight Haunting,False
+Rhys the Redeemed,False
+"Kozilek, Butcher of Truth",False
+Lightning Berserker,False
+Biogenic Ooze,False
+Profane Tutor,False
+Saddled Rimestag,False
+"Birgi, God of Storytelling",False
+Sage's Dousing,False
+Bitter Reunion,False
+Bituminous Blast,False
+Prizefight,False
+"Liliana, Heretical Healer",False
+"Liliana, Death's Majesty",False
+Liliana's Standard Bearer,False
+Saheeli Rai,False
+Liliana's Devotee,False
+Ox of Agonas,False
+Lightning Mauler,False
+Sacred Mesa,False
+Living Twister,False
+Wander in Death,False
+Runaway Steam-Kin,False
+Lotus Petal,False
+Lotus Bloom,False
+Snow-Covered Swamp,False
+Behold the Multiverse,False
+Lorescale Coatl,False
+Beloved Chaplain,False
+Lonely Sandbar,False
+Llanowar Loamspeaker,False
+Lone Rider,False
+Logic Knot,False
+Professor of Symbology,False
+Yawgmoth's Bargain,False
+Loam Lion,False
+Berserk,False
+Waker of Waves,False
+Blade of the Oni,False
+Wild Nacatl,False
+Light 'Em Up,False
+Pack Rat,False
+Saproling Migration,False
+Sarcomancy,False
+Languish,False
+Sarinth Steelseeker,False
+Lampad of Death's Vigil,False
+Lair of the Hydra,False
+"Lagrella, the Magpie",False
+"Sarulf, Realm Eater",False
+"Kykar, Wind's Fury",False
+Ob Nixilis's Cruelty,False
+Kuldotha Forgemaster,False
+Krosan Grip,False
+Volt Charge,False
+Savage Lands,False
+Saproling Burst,False
+Sanguine Spy,False
+Lava Coil,False
+Blasting Station,False
+Bladehold War-Whip,False
+Blanchwood Prowler,False
+Blasphemous Act,False
+Blast from the Past,False
+Levitating Statue,False
+Lesser Masticore,False
+Legions to Ashes,False
+Akoum Hellhound,False
+Pristine Talisman,False
+Akroma's Vengeance,False
+Legion Vanguard,False
+"Vraska, Betrayal's Sting",False
+Lazotep Chancellor,False
+Sandsteppe Citadel,False
+Lovestruck Beast,False
+Ruin Grinder,False
+"Yavimaya, Cradle of Growth",False
+Rugged Highlands,False
+"Rionya, Fire Dancer",False
+"Ayli, Eternal Pilgrim",False
+Mayhem Patrol,False
+Wharf Infiltrator,False
+"Azusa, Lost but Seeking",False
+Werewolf Pack Leader,False
+Orzhov Enforcer,False
+Master Splicer,False
+"Baird, Argivian Recruiter",False
+Balduvian Atrocity,False
+Risk Factor,False
+Mask of the Jadecrafter,False
+Mascot Exhibition,False
+All That Glitters,False
+Marsh Flitter,False
+"Yarok, the Desecrated",False
+Memorial to Glory,False
+Awakened Amalgam,False
+Avalanche Riders,False
+Riddleform,False
+Metallic Rebuke,False
+Ambition's Cost,False
+Oran-Rief Ooze,False
+Psionic Blast,False
+"Rielle, the Everwise",False
+Prosperous Partnership,False
+Whir of Invention,False
+Meren of Clan Nel Toth,False
+"Prosper, Tome-Bound",False
+Riftwing Cloudskate,False
+Aven Mindcensor,False
+Ornithopter,False
+Memory Leak,False
+River Boa,False
+Marionette Master,False
+Riveteers Charm,False
+Mage's Attendant,False
+Makeshift Mannequin,False
+Waterfront Bouncer,False
+"Maja, Bretagard Protector",False
+Rooting Moloch,False
+Battle for Bretagard,False
+Rotlung Reanimator,False
+Warrant // Warden,False
+Wavesifter,False
+Bearscape,False
+Beast Whisperer,False
+Outland Liberator,False
+Luminous Broodmoth,False
+Promise of Bunrei,False
+Overgrown Farmland,False
+Makeshift Munitions,False
+Malevolent Hermit,False
+Rix Maadi Reveler,False
+"Marath, Will of the Wild",False
+Road // Ruin,False
+Roar of the Wurm,False
+Roast,False
+March of Otherworldly Light,False
+Rob the Archives,False
+Orzhov Signet,False
+Mantis Rider,False
+Weaponcraft Enthusiast,False
+"Alharu, Solemn Ritualist",False
+Wear // Tear,False
+Albino Troll,False
+Barbarian Ring,False
+"Barrin, Tolarian Archmage",False
+Out of the Tombs,False
+Grapeshot,False
+The Scarab God,False
+Dance of the Dead,False
+Crux of Fate,False
+Deranged Hermit,False
+Dead Weight,False
+Firebrand Archer,False
+Tradewind Rider,False
+Trade Routes,False
+Eldrazi Skyspawner,False
+Teleportation Circle,False
+Study Break,False
+Conclave Naturalists,False
+Sword of Light and Shadow,False
+Fire Prophecy,False
+Spine of Ish Sah,False
+Elder Gargaroth,False
+Su-Chi,False
+"Subira, Tulzidi Caravanner",False
+Eladamri's Call,False
+Tracker's Instincts,False
+Crush of Wurms,False
+Concealing Curtains,False
+Temple of Epiphany,False
+Finale of Eternity,False
+"Teferi, Master of Time",False
+Thrashing Brontodon,False
+Trading Post,False
+Spitebellows,False
+Fireslinger,False
+Splinterfright,False
+Den of the Bugbear,False
+Consecrated Sphinx,False
+True-Name Nemesis,False
+"Dennick, Pious Apprentice",False
+Cruel Celebrant,False
+Galvanic Relay,False
+"Sygg, River Cutthroat",False
+Fires of Victory,False
+Fireflux Squad,False
+Conjurer's Closet,False
+Elite Guardmage,False
+Fires of Invention,False
+Trygon Predator,False
+"Elesh Norn, Mother of Machines",False
+Teferi's Moat,False
+Teferi's Time Twist,False
+Stromkirk Noble,False
+Elemental Summoning,False
+Gerrard's Verdict,False
+Temple of Malady,False
+Elsewhere Flask,False
+"Edric, Spymaster of Trest",False
+Tovolar's Huntmaster,False
+Turnabout,False
+Spell Snare,False
+Sword of Feast and Famine,False
+Gideon's Lawkeeper,False
+Devil's Play,False
+"Tourach, Dread Cantor",False
+Expanded Anatomy,False
+Turntimber Symbiosis,False
+Crystalline Giant,False
+"Comet, Stellar Pup",False
+Fiend Hunter,False
+Sword Coast Serpent,False
+Gifts Ungiven,False
+Titania's Command,False
+Tendo Ice Bridge,False
+Tuskguard Captain,False
+Thornwood Falls,False
+Terastodon,False
+Thornscape Battlemage,False
+Dungeon Geists,False
+Commander's Plate,False
+Devastating Summons,False
+Dawn of Hope,False
+Complicate,False
+Suffocating Blast,False
+Filigree Vector,False
+Crypt Rats,False
+Temple of Mystery,False
+Temple of Silence,False
+Temple of Triumph,False
+Turn the Earth,False
+Cryptic Caves,False
+Ghitu Slinger,False
+Temporal Mastery,False
+Temporal Trespass,False
+Cryptic Pursuit,False
+Ghost of Ramirez DePietro,False
+Cranial Archive,False
+Compelling Argument,False
+Deserted Beach,False
+Ghostfire Blade,False
+Ghostly Flicker,False
+Commit // Memory,False
+Desolate Lighthouse,False
+"Tatyova, Benthic Druid",False
+Elspeth Conquers Death,False
+Daru Sanctifier,False
+Errant and Giada,False
+Deeproot Wayfinder,False
+Defabricate,False
+Stormchaser Mage,False
+"Syr Faren, the Hengehammer",False
+Steppe Lynx,False
+Talisman of Hierarchy,False
+Talisman of Impulse,False
+Talisman of Indulgence,False
+Talisman of Progress,False
+Talisman of Resilience,False
+Talisman of Unity,False
+Emiel the Blessed,False
+Foundry Street Denizen,False
+Fractal Summoning,False
+Tranquil Thicket,False
+Corpse Knight,False
+Tranquil Cove,False
+Strangle,False
+"Talrand, Sky Summoner",False
+Strangleroot Geist,False
+Frogmite,False
+Talisman of Dominance,False
+Deep Forest Hermit,False
+Flayer Husk,False
+"Taigam, Ojutai Master",False
+Decisive Denial,False
+Crashing Drawbridge,False
+Crashing Footfalls,False
+Declaration in Stone,False
+Deceiver Exarch,False
+Thundermaw Hellkite,False
+Coveted Prize,False
+Force of Despair,False
+Force of Vigor,False
+Equilibrium,False
+Talisman of Curiosity,False
+Endurance,False
+Fling,False
+Transmogrant's Crown,False
+Forgotten Cave,False
+Craterhoof Behemoth,False
+Countervailing Winds,False
+Talisman of Conviction,False
+Forsake the Worldly,False
+Deem Worthy,False
+Corpse Appraiser,False
+Defiler of Vigor,False
+Elspeth's Nightmare,False
+From Under the Floorboards,False
+Sprouting Goblin,False
+Triplicate Titan,False
+Croaking Counterpart,False
+Fists of Flame,False
+Street Wraith,False
+Symbiotic Wurm,False
+Three Visits,False
+Elusive Spellfist,False
+Trostani Discordant,False
+Contagion Clasp,False
+Furyblade Vampire,False
+Strike It Rich,False
+Demonic Pact,False
+Sylvan Safekeeper,False
+Springbloom Druid,False
+"Etali, Primal Conqueror",False
+Strionic Resonator,False
+Gaea's Blessing,False
+Striped Riverwinder,False
+Tragic Fall,False
+Sylvan Anthem,False
+"Esika, God of the Tree",False
+Tragic Slip,False
+Thriving Grove,False
+Embolden,False
+Frontier Bivouac,False
+Flameblade Adept,False
+Erratic Portal,False
+Thwart the Grave,False
+Standstill,False
+Stalwart Valkyrie,False
+Syndicate Trafficker,False
+Trinket Mage,False
+Copper Myr,False
+Syndic of Tithes,False
+Tanglepool Bridge,False
+Deathcap Glade,False
+"Tamiyo, Compleated Sage",False
+Trail of Evidence,False
+Deathbonnet Sprout,False
+Tangled Florahedron,False
+Falkenrath Noble,False
+Fulminator Mage,False
+Death-Greeter's Champion,False
+Trip Noose,False
+Spectral Lynx,False
+Tower of the Magistrate,False
+Thassa's Oracle,False
+Soul Sear,False
+"Ulamog, the Ceaseless Hunger",False
+Goblin Electromancer,False
+Thirst for Discovery,False
+Cloudblazer,False
+Swamp,False
+Clone,False
+Thieving Magpie,False
+Goblin Heelcutter,False
+Drain Life,False
+Feast of Sanity,False
+Cursed Scroll,False
+Sunpetal Grove,False
+Dismal Backwater,False
+Soul Manipulation,False
+Goblin Legionnaire,False
+Dragonspark Reactor,False
+Thief of Sanity,False
+Fastbond,False
+Disallow,False
+Diregraf Colossus,False
+Eyetwitch,False
+Dire Mimic,False
+Swarm Shambler,False
+Sungold Sentinel,False
+Glory,False
+Darkmoss Bridge,False
+Soulfire Grand Master,False
+Swans of Bryn Argoll,False
+"Ugin, the Ineffable",False
+Soul-Guide Lantern,False
+Feat of Resistance,False
+Faceless Butcher,False
+Sunhome Stalwart,False
+Darkblast,False
+Go for Blood,False
+Cloudkin Seer,False
+Thopter Engineer,False
+Diregraf Captain,False
+Goblin Banneret,False
+Soul Warden,False
+Dack Fayden,False
+Goblin Ringleader,False
+Suspicious Stowaway,False
+Djeru and Hazoret,False
+Divide by Zero,False
+Goldspan Dragon,False
+Doom Whisperer,False
+Claim // Fame,False
+Golgari Grave-Troll,False
+Surgical Skullbomb,False
+"Unctus, Grand Metatect",False
+Divine Visitation,False
+"Gonti, Lord of Luxury",False
+Dispeller's Capsule,False
+Sol Talisman,False
+"Gorex, the Tombshell",False
+Sol Ring,False
+Undead Augur,False
+Sojourner's Companion,False
+Surly Badgersaur,False
+Undead Butler,False
+Tombstalker,False
+Faithful Mending,False
+"Dakkon, Shadow Slayer",False
+Faith's Reward,False
+Fallen Shinobi,False
+Sunscape Familiar,False
+The Celestus,False
+"Toggo, Goblin Weaponsmith",False
+Farm // Market,False
+Displacement Wave,False
+Umara Wizard,False
+Dragon Hunter,False
+The Cruelty of Gix,False
+Survivors' Encampment,False
+Song of Freyalise,False
+"Daretti, Scrap Savant",False
+"Dovin, Grand Arbiter",False
+Somberwald Beastmaster,False
+Doubling Season,False
+The Gitrog Monster,False
+The Great Henge,False
+Supplant Form,False
+Tezzeret the Seeker,False
+Enthusiastic Mechanaut,False
+Darkslick Shores,False
+Swift Reconfiguration,False
+Terminus,False
+Diabolic Servitude,False
+Coldsteel Heart,False
+Cunning Sparkmage,False
+Glimpse of Tomorrow,False
+Drownyard Temple,False
+Spare Supplies,False
+Darksteel Mutation,False
+Drown in Ichor,False
+Swiftwater Cliffs,False
+Felidar Guardian,False
+Glacial Fortress,False
+Dreg Mangler,False
+Thopter Mechanic,False
+Sundown Pass,False
+Dryad Arbor,False
+Glen Elendra Archmage,False
+Drowned Catacomb,False
+Dromoka's Command,False
+Swift Warkite,False
+Extraction Specialist,False
+Festering Goblin,False
+Terrarion,False
+"Dromoka, the Eternal",False
+Sparksmith,False
+Thornado,False
+"Dihada, Binder of Wills",False
+Tortured Existence,False
+Sunfall,False
+Gloomshrieker,False
+Glorious Anthem,False
+Swiftblade Vindicator,False
+Tithe Taker,False
+Teysa Karlov,False
+Space Marine Devastator,False
+Drown in the Loch,False
+Sweltering Suns,False
+Twisted Abomination,False
+Titanoth Rex,False
+Collective Defiance,False
+River Hoopoe,False
+Return of the Wildspeaker,False
+Wildwood Escort,False
+Surveilling Sprite,False
+Weirding Shaman,False
+Toll of the Invasion,False
+Retriever Phoenix,False
+Wing Shards,False
+Welcome to the Fold,False
+"Reidane, God of the Worthy",False
+Winds of Qal Sisma,False
+Survival Cache,False
+Rite of Belzenlok,False
+Rith's Grove,False
+Return to Dust,False
+Release the Gremlins,False
+Rite of Harmony,False
+Regicide,False
+Synod Sanctum,False
+Titan's Presence,False
+"Tolsimir, Friend to Wolves",False
+Ride Down,False
+Syphon Life,False
+Rite of Replication,False
+Thunderscape Battlemage,False
+Wildfire Awakener,False
+Resplendent Marshal,False
+"Surrak, the Hunt Caller",False
+Wing Splicer,False
+Thunderous Wrath,False
+Thunderous Orator,False
+Rewind,False
+Winter Eladrin,False
+Reclaim the Wastes,False
+Rhonas the Indomitable,False
+"Titania, Protector of Argoth",False
+Reckless Wurm,False
+Winterthorn Blessing,False
+"Taigam, Sidisi's Hand",False
+Reckless Rage,False
+Tomb Robber,False
+Wish,False
+Surrak Dragonclaw,False
+"Reyhan, Last of the Abzan",False
+Tail Swipe,False
+Reya Dawnbringer,False
+Topaz Dragon,False
+Tainted Adversary,False
+Wingmate Roc,False
+Wingmantle Chaplain,False
+Revitalize,False
+Return to the Earth,False
+Wee Dragonauts,False
+Riverwise Augur,False
+Riveteers Overlook,False
+"Syr Konrad, the Grim",False
+Swooping Lookout,False
+Riveteers Requisitioner,False
+Sword of Dungeons & Dragons,False
+"Toluz, Clever Conductor",False
+"Sythis, Harvest's Hand",False
+Redcap Raiders,False
+Wingbeat Warrior,False
+Roadside Reliquary,False
+Wildfield Borderpost,False
+Reduce to Memory,False
+Winged Shepherd,False
+Roar of Challenge,False
+Reduce // Rubble,False
+Rhythm of the Wild,False
+Sword Coast Sailor,False
+Suspension Field,False
+Werebear,False
+Tinder Wall,False
+Repeating Barrage,False
+Rime Tender,False
+"Wilson, Refined Grizzly",False
+Sword of the Meek,False
+Ring of Gix,False
+Sword of Forge and Frontier,False
+"Sydri, Galvanic Genius",False
+Ring of Valkas,False
+Swan Song,False
+Retreat to Coralhelm,False
+Time of Need,False
+Riptide Entrancer,False
+Rigging Runner,False
+Renewed Faith,False
+Whip of Erebos,False
+Riptide Survivor,False
+Swift Response,False
+Renegade Reaper,False
+Retreat to Emeria,False
+Sword of the Animist,False
+Rime Transfusion,False
+"Wilhelt, the Rotcleaver",False
+Will Kenrith,False
+Timestream Navigator,False
+Timetwister,False
+Resplendent Angel,False
+Rest in Peace,False
+Will of the All-Hunter,False
+Sword of Hearth and Home,False
+Rescuer Chwinga,False
+Whiplash Trap,False
+Rimewind Taskmage,False
+Sword of War and Peace,False
+Rimewood Falls,False
+Timely Reinforcements,False
+Timeless Lotus,False
+Tin Street Dodger,False
+Swelter,False
+Restore Balance,False
+Whipcorder,False
+Repopulate,False
+Time Wipe,False
+Rise // Fall,False
+Wildcall,False
+Rift Sower,False
+Remote Isle,False
+Rise of Extus,False
+Synchronized Spellcraft,False
+Sustenance,False
+Rise of the Ants,False
+Wild Magic Surge,False
+Rise of the Dread Marn,False
+Rise of the Hobgoblins,False
+"Rem Karolus, Stalwart Slayer",False
+Westvale Abbey,False
+Relic of Progenitus,False
+Relic of Legends,False
+Relic Golem,False
+Relic Barrier,False
+Risen Reef,False
+Swiftfoot Boots,False
+Relic Axe,False
+Tocasia's Welcome,False
+Symmetry Matrix,False
+Sutured Ghoul,False
+Wheel of Misfortune,False
+Retreat to Kazandu,False
+Time Walk,False
+Wilt-Leaf Liege,False
+Tiller Engine,False
+Retreat to Hagra,False
+Rise and Shine,False
+Sylvan Might,False
+Sylvan Reclamation,False
+Renegade Map,False
+Render Inert,False
+Wild Hunger,False
+Retreat to Valakut,False
+Retribution of the Meek,False
+Swallow Whole,False
+Tocasia's Dig Site,False
+Sylvok Lifestaff,False
+"Renata, Called to the Hunt",False
+Sylvok Replica,False
+"Renari, Merchant of Marvels",False
+Wild Slash,False
+Snowhorn Rider,False
+Rebuild,False
+Territorial Hammerskull,False
+Thopter Shop,False
+Terror,False
+Progenitor Exarch,False
+Progenitor Mimic,False
+Promise of Power,False
+Propaganda,False
+Prophet of Distortion,False
+Probe,False
+Prophet of Kruphix,False
+Yavimaya's Embrace,False
+Yavimaya Iconoclast,False
+Yavimaya Enchantress,False
+Teroh's Faithful,False
+Thopter Spy Network,False
+Terror of the Peaks,False
+Prized Amalgam,False
+Primal Whisperer,False
+Prismari Campus,False
+"Tezzeret, Betrayer of Flesh",False
+"Tezzeret, Artifice Master",False
+"Tezzeret, Agent of Bolas",False
+Tezzeret's Touch,False
+Thopter Foundry,False
+Yotian Dissident,False
+"Yeva, Nature's Herald",False
+Tervigon,False
+"Yennett, Cryptic Sovereign",False
+Prismatic Omen,False
+"Tevesh Szat, Doom of Fools",False
+Yawgmoth's Vile Offering,False
+Prison Realm,False
+Testament of Faith,False
+Thorn of Amethyst,False
+Prophetic Titan,False
+Yahenni's Expertise,False
+Pyromancer's Goggles,False
+Pyrewild Shaman,False
+Temur War Shaman,False
+Wretched Camel,False
+Wretched Anurid,False
+Temur Charm,False
+Temur Ascendancy,False
+Qarsi Deceiver,False
+Thornglint Bridge,False
+Tempting Witch,False
+Quakebringer,False
+Wren's Run Vanquisher,False
+Wren's Run Packmaster,False
+Temporal Isolation,False
+Quandrix Pledgemage,False
+Pyreheart Wolf,False
+Wretched Confluence,False
+Wurmcalling,False
+Putrid Goblin,False
+Putrefy,False
+Purphoros's Intervention,False
+Puresteel Paladin,False
+Punish Ignorance,False
+Pulse of Murasa,False
+Thought Harvester,False
+Psychomancer,False
+Terisian Mindbreaker,False
+Terminal Agony,False
+Terminal Moraine,False
+Prototype Portal,False
+Proteus Staff,False
+Xerex Strobe-Knight,False
+Thalia's Geistcaller,False
+You Find the Villains' Lair,False
+Quarantine Field,False
+"Zethi, Arcane Blademaster",False
+Polluted Mire,False
+Polukranos Reborn,False
+Thelonite Hermit,False
+The Howling Abomination,False
+Pondering Mage,False
+Pontiff of Blight,False
+The Flame of Keld,False
+Zimone and Dina,False
+The Filigree Sylex,False
+The Eternal Wanderer,False
+Ponyback Brigade,False
+The Elder Dragon War,False
+Poppet Stitcher,False
+Popular Entertainer,False
+The Kami War,False
+The Lost and the Damned,False
+Primal Growth,False
+Pledge of Unity,False
+Zurgo Helmsmasher,False
+Platinum Angel,False
+Platoon Dispenser,False
+Plaxmanta,False
+Zuran Orb,False
+The Wanderer,False
+Zulaport Duelist,False
+Their Number Is Legion,False
+The Rack,False
+Theft of Dreams,False
+Poet's Quill,False
+Pointed Discussion,False
+The Mirari Conjecture,False
+Poison-Tip Archer,False
+"Zariel, Archduke of Avernus",False
+Port Town,False
+Port of Karfell,False
+You're Confronted by Robbers,False
+The Antiquities War,False
+The Akroan War,False
+"Thassa, Deep-Dwelling",False
+Thieving Skydiver,False
+Prey's Vengeance,False
+Young Blue Dragon,False
+Priest of Gix,False
+Zagoth Crystal,False
+You Hear Something on Watch,False
+Priest of Urabrask,False
+Priest of the Haunted Edge,False
+Thopter Assembly,False
+Primal Amulet,False
+Primal Beyond,False
+Precinct Captain,False
+Prayer of Binding,False
+Youthful Knight,False
+Prava of the Steel Legion,False
+Thieves' Guild Enforcer,False
+The Binding of the Titans,False
+The Birth of Meletis,False
+The Blackstaff of Waterdeep,False
+Power Sink,False
+Power Depot,False
+"Zacama, Primal Calamity",False
+Pouncing Jaguar,False
+Postmortem Lunge,False
+"Zada, Hedron Grinder",False
+The Brothers' War,False
+The Cauldron of Eternity,False
+Portal to Phyrexia,False
+Temporal Fissure,False
+Temple of the Dragon Queen,False
+Rebel Salvo,False
+Rattlechains,False
+"Tamiyo, Collector of Tales",False
+Ransack the Lab,False
+Wolf-Skull Shaman,False
+"Rashmi, Eternities Crafter",False
+Ratadrabik of Urborg,False
+Ratchet Bomb,False
+Rattleclaw Mystic,False
+Ranging Raptors,False
+Raugrin Crystal,False
+Wizard's Retort,False
+"Tameshi, Reality Architect",False
+Wizard's Lightning,False
+Ravager Wurm,False
+Witness Protection,False
+Wolfbitten Captive,False
+"Tana, the Bloodsower",False
+Ram Through,False
+Rampaging Raptor,False
+Rampage of the Clans,False
+Tapping at the Window,False
+Wolverine Riders,False
+Rampaging Ferocidon,False
+Rampaging Hippo,False
+Rampaging Monument,False
+Wolfir Silverheart,False
+Thriving Moor,False
+Ramroller,False
+Ramunap Hydra,False
+Tangled Islet,False
+Wolfbriar Elemental,False
+Ranger of Eos,False
+Thriving Isle,False
+Ravages of War,False
+Talrand's Invocation,False
+Raven Familiar,False
+Realm-Cloaked Giant,False
+"Tajic, Legion's Edge",False
+Witch's Cottage,False
+Read the Runes,False
+Reality Shift,False
+Reality Smasher,False
+Thundering Rebuke,False
+Tainted Pact,False
+Through the Breach,False
+"Realmbreaker, the Invasion Tree",False
+Realms Uncharted,False
+Wistful Selkie,False
+Reaper's Talisman,False
+Wishclaw Talisman,False
+"Rebbec, Architect of Ascension",False
+Thundering Djinn,False
+Tajuru Paragon,False
+Thunderfoot Baloth,False
+Witch's Vengeance,False
+"Thrun, the Last Troll",False
+Reach of Branches,False
+Tale's End,False
+Withdraw,False
+Talent of the Telepath,False
+Witherbloom Apprentice,False
+Witherbloom Campus,False
+Razor Golem,False
+"Ravos, Soultender",False
+Witherbloom Pledgemage,False
+Ravenous Skirge,False
+"Thrun, Breaker of Silence",False
+Ravenous Rats,False
+Thriving Bluff,False
+Rally the Ranks,False
+Quartzwood Crasher,False
+"Temmet, Vizier of Naktamun",False
+Temple of Abandon,False
+Thousand-Year Storm,False
+Worldspine Wurm,False
+"Radha, Heir to Keld",False
+Radiant Grove,False
+Temple Acolyte,False
+Radiant's Dragoons,False
+Qumulox,False
+Thran Portal,False
+"Raff Capashen, Ship's Mage",False
+Worldgorger Dragon,False
+Thrash // Threat,False
+Thrasher Brute,False
+World Shaper,False
+Temple of Deceit,False
+Thousand Winds,False
+Woodcaller Automaton,False
+"Wort, the Raidmother",False
+Thought-Knot Seer,False
+Queen of Ice,False
+Temple of Malice,False
+Quick-Draw Dagger,False
+Quicken,False
+Quickling,False
+Quicksilver Dragon,False
+Quirion Ranger,False
+Temple of Enlightenment,False
+Quiet Speculation,False
+"Quintorius, Loremaster",False
+Thoughtbind,False
+Thoughtcast,False
+Quirion Dryad,False
+Teferi's Tutelage,False
+World Breaker,False
+Words of Wilding,False
+Ral's Outburst,False
+Rakdos's Return,False
+"Rakdos, Lord of Riots",False
+Rakish Heir,False
+Rakish Revelers,False
+Rakshasa Gravecaller,False
+Rakshasa Vizier,False
+Ral's Reinforcements,False
+Woolly Thoctar,False
+Threaten,False
+Wooded Bastion,False
+Tasigur's Cruelty,False
+"Ral, Storm Conduit",False
+Rally for the Throne,False
+Rally the Ancestors,False
+Wooded Ridgeline,False
+Threads of Disloyalty,False
+Tattermunge Maniac,False
+Woodland Bellower,False
+Tavern Brawler,False
+Raised by Wolves,False
+Rain of Revelation,False
+Tectonic Giant,False
+Raiders' Wake,False
+Raiders' Spoils,False
+Tectonic Reformation,False
+Thraximundar,False
+Teething Wurmlet,False
+Rageform,False
+"Thrasta, Tempest's Roar",False
+Woodland Changeling,False
+Woodland Chasm,False
+Thriving Heath,False
+Runo Stromkirk,False
+"Rocco, Cabaretti Caterer",False
+Sphinx of Clear Skies,False
+Sphinx Summoner,False
+Shivan Wurm,False
+Sphere of the Suns,False
+Sphere of Resistance,False
+Shore Up,False
+Shoreline Ranger,False
+Sphere of Annihilation,False
+Vanish into Eternity,False
+"Shorikai, Genesis Engine",False
+Show and Tell,False
+Show of Confidence,False
+Spellweaver Eternal,False
+Shower of Coals,False
+Shrapnel Blast,False
+Shredded Sails,False
+Shivan Gorge,False
+Shivan Dragon,False
+Turn to Frog,False
+Vanishing Verse,False
+Sheoldred,False
+Tundra Fumarole,False
+"Varragoth, Bloodsky Sire",False
+Spiketail Hatchling,False
+Shepherd of Heroes,False
+"Varolz, the Scar-Striped",False
+Shield Sphere,False
+"Varina, Lich Queen",False
+Vapor Snag,False
+Tunneling Geopede,False
+Shimmering Grotto,False
+Spike Feeder,False
+Turn Against,False
+Sphinx's Tutelage,False
+Sphinx of the Steel Wind,False
+Vanguard of Brimaz,False
+Shrill Howler,False
+Seraph of Dawn,False
+Spell Shrivel,False
+Silent Arbiter,False
+Silent Specter,False
+Silkwrap,False
+Silumgar Assassin,False
+Spectrum Sentinel,False
+Silundi Vision,False
+Tuya Bearclaw,False
+Silver Bolt,False
+Twilight Mire,False
+Silver Myr,False
+Valiant Endeavor,False
+Silver-Inlaid Dagger,False
+Silverblade Paladin,False
+Valiant Changeling,False
+Twilight Prophet,False
+Tuskeri Firewalker,False
+"Silas Renn, Seeker Adept",False
+Vampire Socialite,False
+"Sigrid, God-Favored",False
+Spellkeeper Weird,False
+Sickening Dreams,False
+Sidar Kondo of Jamuraa,False
+Spellgorger Weird,False
+Sidewinder Naga,False
+Vampire Aristocrat,False
+Spellbound Dragon,False
+Spell Swindle,False
+Siege Zombie,False
+Sifter Wurm,False
+Sigarda's Splendor,False
+"Sigarda, Font of Blessings",False
+"Sigarda, Heron's Grace",False
+Sigil of the Empty Throne,False
+Valley Rannet,False
+Vastwood Hydra,False
+Shenanigans,False
+Vastwood Surge,False
+Set Adrift,False
+Settle Beyond Reality,False
+Spring // Mind,False
+Sever the Bloodline,False
+Venomspout Brackus,False
+Shadow Alley Denizen,False
+Shadow Guildmage,False
+Trudge Garden,False
+Venomous Changeling,False
+Shadow of Doubt,False
+Spreading Seas,False
+Shadow of the Grave,False
+Shadowblood Egg,False
+Venom Connoisseur,False
+Shadowborn Demon,False
+Spontaneous Mutation,False
+Setessan Champion,False
+Trove Warden,False
+Sheltering Light,False
+Servo Schematic,False
+Triton Tactics,False
+Serpentine Basilisk,False
+Serpentine Curve,False
+Serra Angel,False
+Serra Avatar,False
+Serra Avenger,False
+Verdeloth the Ancient,False
+Verdant Force,False
+"Venser, the Sojourner",False
+Serra's Emissary,False
+Serrated Arrows,False
+Serrated Biskelion,False
+Serrated Scorpion,False
+Trostani's Summoner,False
+Springleaf Drum,False
+Spoils of Adventure,False
+Vengeful Reaper,False
+Splicer's Skill,False
+Splendid Reclamation,False
+"Vega, the Watcher",False
+Vedalken Shackles,False
+Shatter the Sky,False
+Shattered Sanctum,False
+Shattered Seraph,False
+Spirit Link,False
+Shefet Dunes,False
+Vault of the Archangel,False
+Shefet Monitor,False
+Tumble Magnet,False
+Spirit Cairn,False
+Spire of Industry,False
+Spire Golem,False
+Vault of Whispers,False
+Spined Thopter,False
+Shardless Agent,False
+Spirit Summoning,False
+Shard Volley,False
+Spit Flame,False
+"Shadowheart, Dark Justiciar",False
+Trumpeting Herd,False
+Spitfire Handler,False
+Trusted Pegasus,False
+Spite // Malice,False
+Shaman of Forgotten Ways,False
+Spirit-Sister's Call,False
+Shameless Charlatan,False
+Shambling Goblin,False
+Spirit of the Labyrinth,False
+Spirit of the Aldergard,False
+Tuktuk the Explorer,False
+Velomachus Lorehold,False
+Veinfire Borderpost,False
+Silverfur Partisan,False
+"Valakut, the Molten Pinnacle",False
+Spectral Bears,False
+Slimebind,False
+Ultramarines Honour Guard,False
+"Slimefoot, the Stowaway",False
+Unmake,False
+Sonic Assault,False
+Unlucky Witness,False
+Songs of the Damned,False
+Slip Out the Back,False
+Unlicensed Disintegration,False
+Slippery Karst,False
+Song of the Worldsoul,False
+Slitherhead,False
+"Umori, the Collector",False
+Slivdrazi Monstrosity,False
+Universal Automaton,False
+"Slurrk, All-Ingesting",False
+Unmarked Grave,False
+Sorcerer Class,False
+Unseal the Necropolis,False
+Sorcerous Spyglass,False
+Slab Hammer,False
+Slash the Ranks,False
+Slaughter Pact,False
+Slaughter the Strong,False
+Soul Partition,False
+Slayer of the Wicked,False
+Slayers' Stronghold,False
+Sleep,False
+Sleeper Dart,False
+Unravel the Aether,False
+Unquenchable Thirst,False
+Soul Diviner,False
+"Sorin, Solemn Visitor",False
+"Sorin, Lord of Innistrad",False
+Ulrich's Kindred,False
+Sly Requisitioner,False
+Unbounded Potential,False
+Somnophore,False
+Somberwald Sage,False
+Uncharted Haven,False
+Solitary Confinement,False
+Solitary Camel,False
+Snapback,False
+Snare Tactician,False
+Snare Thopter,False
+Unclaimed Territory,False
+Snooping Newsie,False
+Soldier of the Pantheon,False
+Undead Alchemist,False
+Soaring Thought-Thief,False
+Undercity Informer,False
+Soaring Seacliff,False
+Undead Warchief,False
+Undead Gladiator,False
+Undergrowth Champion,False
+"Solphim, Mayhem Dominus",False
+Underhanded Designs,False
+Unexpected Windfall,False
+Smallpox,False
+Unexplained Disappearance,False
+Smelt-Ward Minotaur,False
+Smite the Monstrous,False
+Unbreakable Formation,False
+Soltari Trooper,False
+Smokebraider,False
+Smuggler Captain,False
+Soltari Priest,False
+Unexpected Potential,False
+Soltari Monk,False
+Soltari Champion,False
+Unearthly Blizzard,False
+Undiscovered Paradise,False
+Skywise Teachings,False
+Soul Snare,False
+Silverquill Command,False
+Sparring Regimen,False
+Sister Hospitaller,False
+"Sivriss, Nightmare Speaker",False
+Skaab Ruinator,False
+Skaab Wrangler,False
+Sparkspitter,False
+Spark Reaper,False
+Skarrgan Hellkite,False
+Skeletal Changeling,False
+Skeletal Swarming,False
+Skeleton Shard,False
+Urza's Rage,False
+Spark Harvest,False
+Skirk Commando,False
+Urza's Factory,False
+Spare from Evil,False
+Tymaret Calls the Dead,False
+Sire of Stagnation,False
+Unstoppable Ogre,False
+Siphon Insight,False
+"Silvos, Rogue Elemental",False
+Simian Grunts,False
+Twisted Reflection,False
+Two-Handed Axe,False
+Spectral Adversary,False
+Valakut Awakening,False
+Simian Sling,False
+"Vadrok, Apex of Thunder",False
+Simian Spirit Guide,False
+"Uurg, Spawn of Turg",False
+Spawning Pit,False
+Spawn of Mayhem,False
+Spatial Contortion,False
+Sinister Concierge,False
+Sinister Sabotage,False
+Urza's Command,False
+Skirk Drill Sergeant,False
+"Tymaret, the Murder King",False
+Skirk Prospector,False
+Soul's Majesty,False
+Skyclave Cleric,False
+Skyclave Plunder,False
+Unwind,False
+Soul of New Phyrexia,False
+Skyclave Relic,False
+Uktabi Orangutan,False
+Skyclave Shadowcat,False
+Ulamog's Crusher,False
+Skycloud Egg,False
+Soul Swallower,False
+Skyfire Phoenix,False
+Untamed Kavu,False
+Skyknight Legionnaire,False
+Skyknight Vanguard,False
+Skyblade's Boon,False
+Sky Diamond,False
+Skullport Merchant,False
+Skred,False
+Spara's Adjudicators,False
+Skirk Ridge Exhumer,False
+Tymna the Weaver,False
+Skirsdag High Priest,False
+Skittering Skirge,False
+Skittish Kavu,False
+Sower of Temptation,False
+Skullcrack,False
+Soulknife Spy,False
+Tzaangor Shaman,False
+Soulblade Djinn,False
+Ugin's Nexus,False
+Skull Raid,False
+Urban Daggertooth,False
+Sprouting Vines,False
+Verduran Enchantress,False
+Topiary Stomper,False
+Sultai Emissary,False
+Sagu Mauler,False
+Touchstone,False
+Sultai Ascendancy,False
+Walking Skyscraper,False
+Walking Bulwark,False
+"Saheeli, Filigree Master",False
+Walker of the Wastes,False
+Sulfurous Mire,False
+Walker of the Grove,False
+Waker of the Wilds,False
+"Tovolar, Dire Overlord",False
+Vulshok Battlemaster,False
+Sailors' Bane,False
+Sakashima of a Thousand Faces,False
+Sakashima the Impostor,False
+Sultai Charm,False
+Touch of the Void,False
+Suffocating Fumes,False
+Wall of Denial,False
+Ruthless Cullblade,False
+"Torsten, Founder of Benalia",False
+Wanderer's Twig,False
+Ruthless Ripper,False
+Ruthless Sniper,False
+Sacred Fire,False
+Wand of Orcus,False
+Wall of Tanglecord,False
+Sacred Peaks,False
+"Toski, Bearer of Secrets",False
+Summoner's Bond,False
+Summer Bloom,False
+Summary Judgment,False
+Sage of Fables,False
+Sultai Soothsayer,False
+Sakashima's Protege,False
+Vryn Wingmare,False
+Triplicate Spirits,False
+"Sarevok, Deathbringer",False
+Struggle for Skemfar,False
+Stromkirk Occultist,False
+"Vorinclex, Monstrous Raider",False
+Vorinclex,False
+Sarkhan Vol,False
+Vorapede,False
+Voracious Dragon,False
+Satoru Umezawa,False
+Voltaic Key,False
+Satyr's Cunning,False
+Voltaic Brawler,False
+Voltage Surge,False
+Savage Conception,False
+Savage Knuckleblade,False
+Tragic Lesson,False
+Sarinth Greatwurm,False
+Student of Ojutai,False
+Sakura-Tribe Scout,False
+Sandstorm,False
+Salvaged Manaworker,False
+"Vraska, Swarm's Eminence",False
+Salvaging Station,False
+Samite Herbalist,False
+Sudden Breakthrough,False
+"Toxrill, the Corrosive",False
+"Samut, Vizier of Naktamun",False
+Sanctum Plowbeast,False
+Sanctum Weaver,False
+Stupor,False
+Sanctum of Ugin,False
+Sand Strangler,False
+Stuffed Bear,False
+Sandstone Bridge,False
+Voyaging Satyr,False
+Sunder the Gateway,False
+War-Name Aspirant,False
+Sundering Growth,False
+Root Out,False
+Wayward Swordtooth,False
+Supernatural Stamina,False
+Suntail Hawk,False
+Sunset Pyramid,False
+Sunscour,False
+Sunscorched Desert,False
+Rootgrapple,False
+"Rootha, Mercurial Artist",False
+Rootpath Purifier,False
+Rootwater Diver,False
+Wasteland Strangler,False
+Rootwire Amalgam,False
+Rorix Bladewing,False
+Waste Not,False
+Rosethorn Acolyte,False
+Weapon Surge,False
+Root Elemental,False
+Rustvale Bridge,False
+Roon of the Hidden Realm,False
+Weatherlight,False
+Rockshard Elemental,False
+Rockslide Sorcerer,False
+Rocky Tar Pit,False
+"Rograkh, Son of Rohgahh",False
+Weather the Storm,False
+Surgehacker Mech,False
+Roiling Regrowth,False
+Suq'Ata Lancer,False
+Weaponized Scrap,False
+Rolling Earthquake,False
+Rolling Temblor,False
+Rolling Thunder,False
+Topple the Statue,False
+Supreme Phantom,False
+"Rosnakht, Heir of Rohgahh",False
+Rotten Reunion,False
+Wash Away,False
+Rotting Rats,False
+Warlock Class,False
+Sunhome Guildmage,False
+"Rulik Mons, Warren Chief",False
+Sungrass Egg,False
+Warkite Marauder,False
+Tormented Hero,False
+Warden of the Woods,False
+Warden of the Wall,False
+Rune Snag,False
+Warden of the First Tree,False
+Snowfield Sinkhole,False
+Torpor Orb,False
+Rust Tick,False
+Warden of the Eye,False
+Rusted Relic,False
+Ruins of Oran-Rief,False
+Ruinous Path,False
+Ruination Guide,False
+Royal Warden,False
+Warren Weirding,False
+Warren Pilferers,False
+Topplegeist,False
+"Toralf, God of Fury",False
+Rowan Kenrith,False
+Warping Wail,False
+Sunlit Marsh,False
+Ruin in Their Wake,False
+Torment of Hailfire,False
+Sunlance,False
+Rugged Prairie,False
+Ruin Ghost,False
+Sunken Ruins,False
+Ruin Raider,False
+Volrath's Shapeshifter,False
+Savage Punch,False
+Savage Swipe,False
+Stern Mentor,False
+Stern Marshal,False
+Vilespawn Spider,False
+Vile Manifestation,False
+Vile Consumption,False
+Seat of the Synod,False
+Stern Lesson,False
+Secluded Courtyard,False
+Sterling Grove,False
+Vile Aggregate,False
+Secluded Steppe,False
+Tree of Tales,False
+Treefolk Harbinger,False
+Secret Plans,False
+Secrets of Paradise,False
+"Vikya, Scorching Stalwart",False
+Season of Growth,False
+Seaside Citadel,False
+Treacherous Terrain,False
+Steward of Solidarity,False
+Viscera Dragger,False
+Seal of Doom,False
+Treasure Keeper,False
+Treasured Find,False
+Stir the Sands,False
+Seal of Primordium,False
+Stinkweed Imp,False
+Plated Geopede,False
+Viridian Shaman,False
+Stinkdrinker Bandit,False
+Vines of Vastwood,False
+Search for Glory,False
+Stingscourger,False
+Village Messenger,False
+Searing Blood,False
+Secrets of the Dead,False
+Trepanation Blade,False
+Treva's Ruins,False
+Steel Hellkite,False
+Vesuvan Shapeshifter,False
+Vessel of Volatility,False
+Staff of Domination,False
+Sram's Expertise,False
+Vessel of Nascency,False
+Vessel of Malignity,False
+Vessel of Ephemera,False
+Vesperlark,False
+Verix Bladewing,False
+Squirrel Nest,False
+Selhoff Occultist,False
+"Selvala, Heart of the Wilds",False
+Sengir Autocrat,False
+Sentinel Dispatch,False
+Sentinel's Eyes,False
+Stalking Leonin,False
+Starfield of Nyx,False
+Veteran Soldier,False
+Seed Spark,False
+"Sedris, the Traitor King",False
+See Double,False
+See the Truth,False
+See the Unwritten,False
+Stasis Snare,False
+Seed Guardian,False
+Start from Scratch,False
+Starnheim Unleashed,False
+Viashino Sandsprinter,False
+Vial of Dragonfire,False
+Seismic Wave,False
+Vial Smasher the Fierce,False
+Starstorm,False
+Vexing Scuttler,False
+Visionary Augmenter,False
+Sea Hag,False
+Savage Twister,False
+Scattering Stroke,False
+Scavenger Grounds,False
+Volatile Arsonist,False
+Void Rend,False
+Void Mirror,False
+Void,False
+Sceptre of Eternal Glory,False
+Voice of All,False
+Stratus Dancer,False
+Scholar of the Lost Trove,False
+Scion of Darkness,False
+Trail of Mystery,False
+Strata Scythe,False
+Scion of Halaster,False
+Scorch Spitter,False
+Scorned Villager,False
+Scavenged Brawler,False
+Stream of Unconsciousness,False
+Treacherous Blessing,False
+Scattered Thoughts,False
+"Volo, Itinerant Scholar",False
+Savai Crystal,False
+Voldaren Thrillseeker,False
+Voldaren Pariah,False
+Strength in Numbers,False
+Savannah Lions,False
+Savior of Ollenbock,False
+Savvy Hunter,False
+Street Urchin,False
+Scapeshift,False
+Scarab Feast,False
+Scarecrone,False
+Volcanic Hammer,False
+Volatile Fjord,False
+Volatile Chimera,False
+Strands of Night,False
+Vodalian Mindsinger,False
+Strafe,False
+Vizier of the Menagerie,False
+Trash for Treasure,False
+Scrying Sheets,False
+Sculpting Steel,False
+Scute Swarm,False
+Stonebinder's Familiar,False
+Scuttletide,False
+Stolen by the Fae,False
+"Vito, Thorn of the Dusk Rose",False
+Sea Gate,False
+Stolen Identity,False
+Sea Gate Colossus,False
+Sea Gate Oracle,False
+Traveler's Amulet,False
+Sea Gate Restoration,False
+Vital Splicer,False
+Stonework Packbeast,False
+Vivien Reid,False
+Scroll of Fate,False
+Storm-Kiln Artist,False
+Stormchaser Drake,False
+Stormcarved Coast,False
+Vizier of Remedies,False
+Transgress the Mind,False
+Stormbreath Dragon,False
+Stormblood Berserker,False
+Storm's Wrath,False
+Vivien on the Hunt,False
+Trapped in the Tower,False
+"Vivien, Champion of the Wilds",False
+Scrapwork Rager,False
+Scrapyard Recombiner,False
+Scrivener,False
+Storm World,False
+"Shalai, Voice of Plenty",False
+"Lolth, Spider Queen",False
+Planar Outburst,False
+Dire Undercurrents,False
+Diregraf Rebirth,False
+Disappearing Act,False
+Disciple of Bolas,False
+Disciple of the Ring,False
+Disciple of the Vault,False
+Disdainful Stroke,False
+Disfigure,False
+Dismiss,False
+Disorder in the Court,False
+Disowned Ancestor,False
+Disrupting Shoal,False
+Disruption Protocol,False
+Distended Mindbender,False
+Distortion Strike,False
+Dive Down,False
+Divine Arrow,False
+Djeru's Renunciation,False
+Dodgy Jalopy,False
+Dogged Detective,False
+Dollhouse of Horrors,False
+Doom Foretold,False
+Doomed Dissenter,False
+Doomed Necromancer,False
+Doomed Traveler,False
+Doomfall,False
+Dire-Strain Rampage,False
+Dinrova Horror,False
+Doomskar,False
+Dimir Doppelganger,False
+Deprive,False
+Deputy of Detention,False
+"Derevi, Empyrial Tactician",False
+Descent into Avernus,False
+Descent into Madness,False
+Desecration Demon,False
+Desert,False
+Desert Nomads,False
+Desert of the Fervent,False
+Desert of the Glorified,False
+Desert of the Indomitable,False
+Desert of the Mindful,False
+Desert of the True,False
+Desert's Hold,False
+Desperate Ritual,False
+Destroy Evil,False
+Devilish Valet,False
+Devoted Grafkeeper,False
+Devour in Flames,False
+Diabolic Edict,False
+Diabolic Intent,False
+Diamond Lion,False
+Didn't Say Please,False
+Dig Up the Body,False
+Dimensional Infiltrator,False
+Doomsday,False
+Doomskar Oracle,False
+Eager First-Year,False
+Dream Eater,False
+Dream Strix,False
+Dream Thief,False
+Dream Twist,False
+Dreamroot Cascade,False
+Dregscape Zombie,False
+Drifting Meadow,False
+Drogskol Captain,False
+Dromar's Cavern,False
+Dross Golem,False
+Drown in Sorrow,False
+Drowner of Hope,False
+Drownyard Behemoth,False
+Drowsing Tyrannodon,False
+Druid Class,False
+Druidic Ritual,False
+Dual Strike,False
+Duergar Hedge-Mage,False
+Dune Mover,False
+Duneblast,False
+Dunes of the Dead,False
+Durable Handicraft,False
+Dusk Legion Zealot,False
+Duskshell Crawler,False
+Dwarven Hammer,False
+Dying to Serve,False
+Dream Fracture,False
+Dream Devourer,False
+Doomskar Warrior,False
+Dream Chisel,False
+"Dorothea, Vengeful Victim",False
+Double Stroke,False
+Double Vision,False
+Doubling Cube,False
+Dovin's Acuity,False
+"Dovin, Hand of Control",False
+Draconic Destiny,False
+Drag to the Underworld,False
+Dragon Cultist,False
+Dragon Fodder,False
+Dragon-Style Twins,False
+Dragonkin Berserker,False
+Dragonlord Kolaghan,False
+Dragonlord Ojutai,False
+Dragonmaster Outcast,False
+Dragonscale General,False
+Draining Whelk,False
+"Drana, Liberator of Malakir",False
+Drannith Healer,False
+Drannith Ruins,False
+Drannith Stinger,False
+Draugr Necromancer,False
+Dread Fugue,False
+Dread Presence,False
+Dreadhorde Invasion,False
+Depose // Deploy,False
+Den Protector,False
+Demonic Rising,False
+Criminal Past,False
+Crippling Fear,False
+Crooked Custodian,False
+Crosis's Catacombs,False
+Cruel Sadist,False
+Cruel Witness,False
+Crumbling Necropolis,False
+Crumbling Vestige,False
+Crush of Tentacles,False
+Crypt Ghast,False
+Cryptolith Fragment,False
+Crystal Dragon,False
+Crystal Grotto,False
+Crystal Quarry,False
+Culling Ritual,False
+Culling the Weak,False
+Cultist of the Absolute,False
+Cultivator's Caravan,False
+Cunning Survivor,False
+Cuombajj Witches,False
+Curate,False
+Curious Homunculus,False
+Curious Pair,False
+Curse of Disturbance,False
+Curse of Shallow Graves,False
+Cut Short,False
+Crippling Chill,False
+Creakwood Ghoul,False
+Demonfire,False
+Crawling Infestation,False
+Convolute,False
+Cordial Vampire,False
+Corpse Dance,False
+Corpse Explosion,False
+Corpsehatch,False
+Corpsejack Menace,False
+Corrupt,False
+Corrupted Crossroads,False
+Cosmic Rebirth,False
+Countersquall,False
+Countryside Crusher,False
+Courageous Outrider,False
+Courier's Briefcase,False
+Cover of Winter,False
+Coveted Jewel,False
+Covetous Castaway,False
+Crack Open,False
+Crackle with Power,False
+Crackling Doom,False
+Cradle of the Accursed,False
+Cram Session,False
+Crater Elemental,False
+Crater Hellion,False
+Crater's Claws,False
+Crawl from the Cellar,False
+Cutthroat Contender,False
+Cyclonic Rift,False
+Daghatar the Adamant,False
+Damning Verdict,False
+Deadly Designs,False
+Deadly Recluse,False
+Death Baron,False
+Death Frenzy,False
+Death Grasp,False
+Death Tyrant,False
+Death Wind,False
+Deathgorge Scavenger,False
+Deathgreeter,False
+Deathmist Raptor,False
+Deathsprout,False
+Debilitating Injury,False
+Deconstruct,False
+Decorated Champion,False
+Decree of Silence,False
+"Deekah, Fractal Theorist",False
+Defense of the Heart,False
+Defiant Strike,False
+Deflecting Palm,False
+Delayed Blast Fireball,False
+Deliberate,False
+"Delina, Wild Mage",False
+Demilich,False
+Demolition Field,False
+Demon Bolt,False
+Deadeye Tracker,False
+Deadeye Navigator,False
+Deadeye Harpooner,False
+Darksteel Axe,False
+Dance of the Manse,False
+"Danitha Capashen, Paragon",False
+"Danitha, Benalia's Hope",False
+"Danitha, New Benalia's Light",False
+"Dargo, the Shipwrecker",False
+Darigaaz's Caldera,False
+Daring Archaeologist,False
+Daring Piracy,False
+Daring Skyjek,False
+Dark Impostor,False
+Dark Salvation,False
+Darkwater Egg,False
+Dead of Winter,False
+Daru Lancer,False
+Dauntless Unity,False
+Dauthi Horror,False
+"Davriel, Rogue Shadowmage",False
+Dawnbringer Cleric,False
+Daxos's Torment,False
+"Daxos, Blessed by the Sun",False
+Daybreak Charger,False
+Daybreak Ranger,False
+Dazzling Sphinx,False
+Dead Drop,False
+Dynacharge,False
+Earl of Squirrel,False
+Contaminated Aquifer,False
+Farmstead Gleaner,False
+Favored Hoplite,False
+Fearless Skald,False
+Feast of Succession,False
+Feasting Troll King,False
+"Feather, the Redeemed",False
+Feeling of Dread,False
+Feign Death,False
+"Feldon, Ronom Excavator",False
+Fell Stinger,False
+Fell the Mighty,False
+Ferocious Pup,False
+Ferocity of the Wilds,False
+Fervent Charge,False
+Festival Crasher,False
+Feudkiller's Verdict,False
+Fevered Visions,False
+Feywild Visitor,False
+Field Trip,False
+Field of Souls,False
+Fieldmist Borderpost,False
+Fiendlash,False
+Fierce Empath,False
+Fiery Emancipation,False
+Fight Rigging,False
+Fight as One,False
+Fatestitcher,False
+Farfinder,False
+Final Parting,False
+Far Traveler,False
+Fabricate,False
+Facet Reader,False
+Facevaulter,False
+Fade from History,False
+Fading Hope,False
+Fae of Wishes,False
+Faeburrow Elder,False
+Faerie Harbinger,False
+Faerie Impostor,False
+"Fain, the Broker",False
+Fairgrounds Warden,False
+Faith's Fetters,False
+"Falco Spara, Pactweaver",False
+Fall from Favor,False
+Fall of the Thran,False
+Fallaji Archaeologist,False
+Fallaji Vanguard,False
+Fallaji Wayfarer,False
+Fallen Angel,False
+Fallen Askari,False
+False Prophet,False
+"Falthis, Shadowcat Familiar",False
+Fanatic of Mogis,False
+Fanatical Firebrand,False
+Far // Away,False
+Fight with Fire,False
+Finale of Promise,False
+Early Harvest,False
+Flamewake Phoenix,False
+Flaming Fist,False
+Fledgling Djinn,False
+Fleeting Spirit,False
+Flicker,False
+Flitting Guerrilla,False
+Flood Plain,False
+Flood of Tears,False
+Floodhound,False
+"Florian, Voldaren Scion",False
+Flourishing Fox,False
+Flourishing Strike,False
+Flowstone Infusion,False
+Flying Crane Technique,False
+Foil,False
+Folio of Fancies,False
+Footlight Fiend,False
+Force Away,False
+Force Bubble,False
+Force of Virtue,False
+Foreboding Fruit,False
+Foreboding Ruins,False
+Forgotten Ancient,False
+Forgotten Creation,False
+Form of the Dragon,False
+Forsaken Monument,False
+"Flamewar, Brash Veteran",False
+Flames of the Raze-Boar,False
+Find // Finality,False
+Flames of the Firebrand,False
+Fire Ambush,False
+Fire Covenant,False
+Fire Diamond,False
+Fire Imp,False
+Fire-Belly Changeling,False
+Fire-Lit Thicket,False
+Fireball,False
+Firedrinker Satyr,False
+Firefist Striker,False
+Firemane Avenger,False
+Firemaw Kavu,False
+Firemind Vessel,False
+Firewild Borderpost,False
+Firja's Retribution,False
+"Firja, Judge of Valor",False
+First Day of Class,False
+First Response,False
+Fissure,False
+Fissure Wizard,False
+Fists of Ironwood,False
+Flame Spill,False
+Flame Sweep,False
+Flamekin Harbinger,False
+Flamekin Herald,False
+Flamerush Rider,False
+Fabled Hero,False
+Fable of Wolf and Owl,False
+Eyes in the Skies,False
+Elite Scaleguard,False
+"Ellyn Harbreeze, Busybody",False
+"Elmar, Ulvenwald Informant",False
+"Eloise, Nephalia Sleuth",False
+Elsha of the Infinite,False
+"Elspeth, Knight-Errant",False
+"Elspeth, Sun's Nemesis",False
+Elturgard Ranger,False
+Elvish Aberration,False
+Elvish Hydromancer,False
+Elvish Piper,False
+Elvish Spirit Guide,False
+Elvish Visionary,False
+Embalmer's Tools,False
+Embodiment of Insight,False
+Embodiment of Spring,False
+Emerge Unscathed,False
+Emeria Angel,False
+Emeria Captain,False
+Emeria's Call,False
+Emissary's Ploy,False
+Emmara Tandris,False
+"Emmara, Soul of the Accord",False
+Empowered Autogenerator,False
+Empyrial Armor,False
+Emrakul's Hatcher,False
+Elixir of Immortality,False
+Eliminate the Competition,False
+Eyeblight Cullers,False
+"Eligeth, Crossroads Augur",False
+Earthbrawn,False
+"Ebondeath, Dracolich",False
+Ebony Fly,False
+Echo Tracer,False
+Echo of Eons,False
+Echoing Truth,False
+Ecologist's Terrarium,False
+Edgar's Awakening,False
+Edifice of Authority,False
+Efreet Weaponmaster,False
+"Egon, God of Death",False
+Eidolon of Rhetoric,False
+Elder Deep-Fiend,False
+Elderleaf Mentor,False
+Eldrazi Displacer,False
+Eldrazi Mimic,False
+Eldrazi Monument,False
+Eldrazi Obligator,False
+Eldrazi Temple,False
+Eldritch Evolution,False
+Elegant Entourage,False
+Elemental Bond,False
+Elemental Masterpiece,False
+"Elenda, the Dusk Rose",False
+Elephant Guide,False
+Enchantress's Presence,False
+Encroaching Mycosynth,False
+End Hostilities,False
+End-Raze Forerunners,False
+Etched Oracle,False
+Eternal Scourge,False
+Ethereal Ambush,False
+Ethereal Armor,False
+Ethereal Valkyrie,False
+Etherium Astrolabe,False
+Etherium Sculptor,False
+Ethersworn Canonist,False
+Eureka,False
+Ever After,False
+Evolved Spinoderm,False
+Excavated Wall,False
+Exclusion Mage,False
+Exile,False
+Exocrine,False
+Expansion // Explosion,False
+Expedite,False
+Explorer's Scope,False
+Explosive Singularity,False
+Explosive Vegetation,False
+Extinction Event,False
+Extract Brain,False
+Extruder,False
+Exuberant Fuseling,False
+Eye of Ugin,False
+Etched Monstrosity,False
+"Etali, Primal Storm",False
+Estrid's Invocation,False
+Epic Downfall,False
+Endbringer,False
+Endless Atlas,False
+Enduring Renewal,False
+Energy Chamber,False
+Enslave,False
+Ensoul Artifact,False
+Enter the God-Eternals,False
+Enthusiastic Study,False
+Entrancing Melody,False
+Ephara's Dispersal,False
+Epic Confrontation,False
+Era of Enlightenment,False
+Essence Scatter,False
+Eradicator Valkyrie,False
+Erebos's Intervention,False
+Erhnam Djinn,False
+Erratic Cyclops,False
+"Eruth, Tormented Prophet",False
+Escape Protocol,False
+Escape Velocity,False
+"Esix, Fractal Bloom",False
+Esper Charm,False
+Essence Capture,False
+Essence Depleter,False
+Contemplation,False
+Containment Priest,False
+Fortified Village,False
+Attended Knight,False
+Auntie's Snitch,False
+Aura Mutation,False
+Auriok Champion,False
+Aurora Phoenix,False
+Austere Command,False
+Avabruck Caretaker,False
+Avalanche Caller,False
+Avalanche Tusker,False
+Avatar of Woe,False
+Aven Eternal,False
+Aven Heartstabber,False
+Aven Liberator,False
+"Averna, the Chaos Bloom",False
+Avian Changeling,False
+Awakening of Vitu-Ghazi,False
+Axebane Guardian,False
+Ayula's Influence,False
+Azor's Gateway,False
+Azorius Charm,False
+Azusa's Many Journeys,False
+Backdraft Hellkite,False
+Bad River,False
+Balduvian Frostwaker,False
+Ball Lightning,False
+Baloth Cage Trap,False
+Audacious Thief,False
+Attended Healer,False
+Bane of Bala Ged,False
+"Atris, Oracle of Half-Truths",False
+Arlinn Kord,False
+Armament Corps,False
+Armillary Sphere,False
+Armorcraft Judge,False
+Armored Skaab,False
+Armory of Iroas,False
+Arms Dealer,False
+Arrest,False
+Artful Maneuver,False
+Artificer Class,False
+Artisan of Kozilek,False
+As Foretold,False
+Ascendant Spirit,False
+Ash Zealot,False
+Ashcloud Phoenix,False
+Ashenmoor Gouger,False
+Ashiok's Erasure,False
+"Ashiok, Nightmare Muse",False
+Ashnod's Altar,False
+"Ashnod, Flesh Mechanist",False
+Assemble the Rank and Vile,False
+Assert Authority,False
+Astral Steel,False
+Atarka Efreet,False
+Atog,False
+Band Together,False
+Banefire,False
+"Blex, Vexing Pest",False
+Benevolent Bodyguard,False
+Benthic Biomancer,False
+Berg Strider,False
+Beyeen Veil,False
+Big Score,False
+Bind the Monster,False
+Binding Grasp,False
+Biotransference,False
+Bird Admirer,False
+Bishop of Binding,False
+Bishop of Rebirth,False
+Black Dragon Gate,False
+Black Lotus,False
+Black Market Connections,False
+Black Sun's Twilight,False
+Black Sun's Zenith,False
+Blackbloom Rogue,False
+Blacksmith's Skill,False
+Blade of the Bloodchief,False
+Blades of Velis Vel,False
+Blast of Genius,False
+Blaze Commando,False
+Bleed Dry,False
+Blessed Alliance,False
+Blessed Defiance,False
+Blessed Hippogriff,False
+"Bennie Bracks, Zoologist",False
+Beneath the Sands,False
+Banisher Priest,False
+Benalish Marshal,False
+Banishing Knack,False
+Baral's Expertise,False
+Barbarian Guides,False
+Barge In,False
+Barrage Tyrant,False
+Basalt Ravager,False
+Base Camp,False
+Basilica Screecher,False
+Basilisk Collar,False
+Basri Ket,False
+Basri's Solidarity,False
+Bastion Protector,False
+Battering Craghorn,False
+Battle Brawler,False
+Battle Hymn,False
+Battle Mammoth,False
+Beacon Bolt,False
+Beacon of Tomorrows,False
+Beacon of Unrest,False
+Bear's Companion,False
+Bearer of Silence,False
+Bedeck // Bedazzle,False
+Befoul,False
+Bellowing Saddlebrute,False
+Beloved Princess,False
+Argothian Enchantress,False
+"Argoth, Sanctum of Nature",False
+Argivian Phalanx,False
+Aggressive Mining,False
+Agony Warp,False
+Airlift Chaplain,False
+Ajani Vengeant,False
+Ajani's Pridemate,False
+"Ajani, Sleeper Agent",False
+"Akiri, Fearless Voyager",False
+"Akiri, Line-Slinger",False
+Akroan Crusader,False
+Akroan Skyguard,False
+"Akroma, Angel of Wrath",False
+"Akroma, Vision of Ixidor",False
+Alchemist's Vial,False
+"Alena, Kessig Trapper",False
+"Alirios, Enraptured",False
+All Is Dust,False
+All-Seeing Arbiter,False
+"Alora, Merry Thief",False
+Alpine Guide,False
+Alpine Meadow,False
+Alrund's Epiphany,False
+Ambassador Laquatus,False
+Ambuscade Shaman,False
+Amethyst Dragon,False
+Amoeboid Changeling,False
+An Offer You Can't Refuse,False
+Aggressive Sabotage,False
+Aggressive Mammoth,False
+"Ardoz, Cobbler of War",False
+Aggravated Assault,False
+Abolish,False
+Abominable Treefolk,False
+Abomination of Gudul,False
+Abundant Growth,False
+Abundant Maw,False
+Abzan Ascendancy,False
+Abzan Battle Priest,False
+Abzan Guide,False
+Academic Dispute,False
+Access Denied,False
+Acorn Harvest,False
+Acquisitions Expert,False
+Act of Authority,False
+Adaptive Automaton,False
+Advantageous Proclamation,False
+Adventuring Gear,False
+Adventurous Impulse,False
+Aerial Extortionist,False
+"Aesi, Tyrant of Gyre Strait",False
+Aether Snap,False
+Aether Vial,False
+Aetherflux Reservoir,False
+Aethersnipe,False
+Against All Odds,False
+Agent of the Iron Throne,False
+"Anara, Wolvid Familiar",False
+Anavolver,False
+Anax and Cymede,False
+Ancestor's Chosen,False
+"Ao, the Dawn Sky",False
+Apex Altisaur,False
+Apex Devastator,False
+Aphetto Exterminator,False
+Aphetto Runecaster,False
+Appetite for the Unnatural,False
+Arashin Foremost,False
+Arcane Bombardment,False
+Arcane Sanctum,False
+Arcane Savant,False
+Arcane Subtraction,False
+Arcbond,False
+Arcbound Stinger,False
+"Arcee, Sharpshooter",False
+Archangel of Thune,False
+Archangel of Wrath,False
+Archetype of Aggression,False
+Archfiend of Sorrows,False
+Archfiend of the Dross,False
+Archivist of Oghma,False
+Archon of Emeria,False
+Archpriest of Iona,False
+Archpriest of Shadows,False
+Arctic Treeline,False
+Ardent Electromancer,False
+Anointed Peacekeeper,False
+Annihilating Fire,False
+Ankle Shanker,False
+Angel of Sanctions,False
+Ancestral Blade,False
+Ancestral Mask,False
+Ancestral Recall,False
+Ancient Brass Dragon,False
+Ancient Bronze Dragon,False
+Ancient Den,False
+Ancient Gold Dragon,False
+Ancient Hydra,False
+Ancient Imperiosaur,False
+Ancient Ziggurat,False
+Angel of Glory's Rise,False
+Angel of Serenity,False
+Anje Falkenrath,False
+Angel of Vitality,False
+Angel of the Dawn,False
+Angelheart Protector,False
+Angelic Favor,False
+Angelic Page,False
+Angelic Sleuth,False
+"Angrath, Captain of Chaos",False
+"Angrath, the Flame-Chained",False
+"Anhelo, the Painter",False
+"Animar, Soul of Elements",False
+Animus of Predation,False
+Blessing of Frost,False
+Blight Mound,False
+Containment Breach,False
+"Chandra, Hope's Beacon",False
+Changeling Outcast,False
+Changeling Titan,False
+Chaos Orb,False
+Char,False
+Charcoal Diamond,False
+Charge Across the Araba,False
+Charge Through,False
+Chasm Skulker,False
+Chatter of the Squirrel,False
+Check for Traps,False
+Chemister's Insight,False
+Chief of the Edge,False
+Chief of the Scale,False
+Chill to the Bone,False
+Chimeric Mass,False
+Chimeric Sphere,False
+Chimeric Staff,False
+Chitterspitter,False
+Chivalric Alliance,False
+Choked Estuary,False
+Choking Tethers,False
+Chrome Courier,False
+Chromeshell Crab,False
+"Chulane, Teller of Tales",False
+Cinderclasm,False
+Changeling Hero,False
+Chandra's Pyrohelix,False
+Circle of the Land Druid,False
+Champion of the Flame,False
+Careful Consideration,False
+Carrier Thrall,False
+Carth the Lion,False
+Carven Caryatid,False
+Cascade Bluffs,False
+Castigate,False
+Castle Ardenvale,False
+Castle Locthwain,False
+Catastrophe,False
+Cauldron Dance,False
+Cavalier of Dawn,False
+Cavalier of Thorns,False
+Cave of Temptation,False
+Cave of the Frost Dragon,False
+"Cazur, Ruthless Stalker",False
+Celestial Crusader,False
+Cemetery Tampering,False
+Centaur Glade,False
+Chain Reaction,False
+Chain of Vapor,False
+Chained to the Rocks,False
+Chainweb Aracnir,False
+Challenger Troll,False
+Chameleon Colossus,False
+Champion of Lambholt,False
+Cindervines,False
+Circuit Mender,False
+Blighted Cataract,False
+Collector Ouphe,False
+Colossal Majesty,False
+Colossus Hammer,False
+Combat Celebrant,False
+Combat Thresher,False
+Comet Storm,False
+Command Beacon,False
+Command Tower,False
+Commander Eesha,False
+Complete Disregard,False
+Compulsive Research,False
+Concentrate,False
+Concerted Defense,False
+Conch Horn,False
+Conduit of Ruin,False
+Confessor,False
+Confiscate,False
+Conifer Wurm,False
+Conjurer's Mantle,False
+Conqueror's Foothold,False
+Consecrate // Consume,False
+Constable of the Realm,False
+Consuming Blob,False
+Contagion,False
+Contagion Engine,False
+Contagious Vorrac,False
+Collision // Colossus,False
+Collective Restraint,False
+Citadel Gate,False
+Collective Effort,False
+City of Traitors,False
+Civic Wayfinder,False
+Clan Crafter,False
+Clay Golem,False
+Cleansing Nova,False
+Clear the Mind,False
+Cleaving Reaper,False
+Cleric Class,False
+Clever Impersonator,False
+Clever Lumimancer,False
+Cliffgate,False
+Cloakwood Hermit,False
+Clock of Omens,False
+Cloistered Youth,False
+Cloud Key,False
+Cloudfin Raptor,False
+Cloudform,False
+Cloudgoat Ranger,False
+Cloudsteel Kirin,False
+Cobbled Lancer,False
+Codespell Cleric,False
+Codex Shredder,False
+"Codie, Vociferous Codex",False
+Coercion,False
+Cogwork Spy,False
+Caravan Vigil,False
+Captured by Lagacs,False
+Captain's Hook,False
+Blossoming Defense,False
+Bogardan Firefiend,False
+Boggart Brute,False
+Boggart Mob,False
+Boggart Ram-Gang,False
+Bolt Bend,False
+Bolt Hound,False
+Bombard,False
+Bond Beetle,False
+Bonders' Enclave,False
+Bone Miser,False
+Bone Rattler,False
+Bone Sabres,False
+Bone Saw,False
+Bonecaller Cleric,False
+Bonehoard,False
+Bonfire of the Damned,False
+Bookwurm,False
+Boom // Bust,False
+Boompile,False
+Boon Satyr,False
+Bootleggers' Stash,False
+Boreal Druid,False
+Boreal Outrider,False
+Boros Guildmage,False
+Borrowed Hostility,False
+Bogardan Dragonheart,False
+Bloom Tender,False
+Captain of the Watch,False
+Bloodthrone Vampire,False
+Blighted Fen,False
+Blighted Gorge,False
+Blighted Steppe,False
+Blighted Woodland,False
+Blightsteel Colossus,False
+Blinding Angel,False
+Blinding Drone,False
+Blinding Souleater,False
+Blinkmoth Urn,False
+Blistercoil Weird,False
+Blisterpod,False
+Blizzard Brawl,False
+Blood Aspirant,False
+Blood Fountain,False
+Blood Moon,False
+Blood Operative,False
+Blood-Chin Fanatic,False
+Bloodchief Ascension,False
+Bloodcrazed Neonate,False
+Bloodfeather Phoenix,False
+Bloodflow Connoisseur,False
+Bloodline Culling,False
+Bloodline Keeper,False
+Bloodsworn Steward,False
+Bloodthirsty Aerialist,False
+Borrowed Time,False
+Boseiju Reaches Skyward,False
+Botanical Brawler,False
+Bottle Gnomes,False
+Burn Away,False
+Burning Prophet,False
+Burning Wish,False
+Burning of Xinye,False
+Burnished Hart,False
+By Force,False
+Cabal Interrogator,False
+Cabal Ritual,False
+Cabaretti Courtyard,False
+Cage of Hands,False
+Cairn Wanderer,False
+Calamity's Wake,False
+Calcite Snapper,False
+Calculated Dismissal,False
+Call of the Death-Dweller,False
+Call the Scions,False
+Callidus Assassin,False
+Can't Stay Away,False
+Canal Dredger,False
+Candletrap,False
+Cankerous Thirst,False
+Canoptek Spyder,False
+Canoptek Tomb Sentinel,False
+Canyon Jerboa,False
+Canyon Wildcat,False
+Bubbling Muck,False
+"Bruse Tarl, Boorish Herder",False
+Bruenor Battlehammer,False
+"Breya, Etherium Shaper",False
+Bouncer's Beatdown,False
+Bounding Wolf,False
+Bounty of the Hunt,False
+Boxing Ring,False
+Brago's Favor,False
+Brass Herald,False
+Breach the Multiverse,False
+Breath of Darigaaz,False
+Breath of Life,False
+Breathkeeper Seraph,False
+"Breeches, Brazen Plunderer",False
+Briarhorn,False
+Broodmate Dragon,False
+Briarpack Alpha,False
+Briber's Purse,False
+Brine Elemental,False
+Brineborn Cutthroat,False
+"Brinelin, the Moon Kraken",False
+Brion Stoutarm,False
+Broken Bond,False
+Brokers Ascendancy,False
+Brokers Charm,False
+Bronze Walrus,False
+Broodhatch Nantuko,False
+Forsworn Paladin,False
+Foul Renewal,False
+Planar Disruption,False
+Mayor of Avabruck,False
+Measure of Wickedness,False
+Mech Hangar,False
+Medomai's Prophecy,False
+Meekstone,False
+"Melira, Sylvok Outcast",False
+Memnarch,False
+Memorial to Folly,False
+Memorial to Genius,False
+Mer-Ek Nightblade,False
+Merchant Scroll,False
+Merchant of the Vale,False
+Merchant's Dockhand,False
+Merfolk Skydiver,False
+Merfolk Traders,False
+Merfolk Windrobber,False
+Mesa Enchantress,False
+Mesmeric Orb,False
+Metalwork Colossus,False
+Meticulous Excavation,False
+"Miara, Thorn of the Glade",False
+Miasmic Mummy,False
+Micromancer,False
+"Migloz, Maze Crusher",False
+Migration Path,False
+Migratory Route,False
+Maze of Ith,False
+Maximize Altitude,False
+Millstone,False
+Matter Reshaper,False
+"Marchesa, the Black Rose",False
+Mardu Ascendancy,False
+Mardu Charm,False
+Mardu Hateblade,False
+Mardu Heart-Piercer,False
+Mardu Hordechief,False
+Mardu Scout,False
+Mardu Skullhunter,False
+Mardu Strike Leader,False
+Marit Lage's Slumber,False
+Mark of Eviction,False
+Markov Baron,False
+Marshaling Cry,False
+Martial Coup,False
+Martyr of Dusk,False
+Mascot Interception,False
+Mask of Memory,False
+Masked Bandits,False
+Massacre Wurm,False
+Master Chef,False
+Master Decoy,False
+Master of Etherium,False
+Master of Pearls,False
+Master of the Veil,False
+Mastery of the Unseen,False
+"Mikaeus, the Unhallowed",False
+Mind Control,False
+Mournwhelk,False
+Mnemonic Wall,False
+Moderation,False
+Mogg Conscripts,False
+Mogg Flunkies,False
+Moldgraf Scavenger,False
+Molten Hydra,False
+Molten Monstrosity,False
+Molten Nursery,False
+Molten Tributary,False
+Molten-Tail Masticore,False
+Moment of Craving,False
+Momentous Fall,False
+Monstrify,False
+Monstrous War-Leech,False
+Moon-Blessed Cleric,False
+Moonglove Extract,False
+Moonsnare Prototype,False
+Moonveil Regent,False
+Moorland Haunt,False
+Morgue Theft,False
+Mortician Beetle,False
+Mortuary Mire,False
+Mossbeard Ancient,False
+Mossfire Egg,False
+Mothdust Changeling,False
+Mother Bear,False
+Mobilization,False
+Mnemonic Deluge,False
+Mind Twist,False
+"Mizzix, Replica Rider",False
+Mind's Desire,False
+Mindless Automaton,False
+Mindshrieker,False
+Minimus Containment,False
+Minion's Return,False
+Ministrant of Obligation,False
+Minor Misstep,False
+"Minsc & Boo, Timeless Heroes",False
+"Minsc, Beloved Ranger",False
+Mirage Phalanx,False
+Mirari,False
+Mire's Grasp,False
+Mirran Crusader,False
+Mirrex,False
+Mirrodin Besieged,False
+Mirrodin's Core,False
+Mirror Image,False
+Mirrorshell Crab,False
+Mischievous Quanar,False
+Misery's Shadow,False
+Mishra's Command,False
+Mishra's Workshop,False
+Mistfire Weaver,False
+Mistmoon Griffin,False
+Mite Overseer,False
+March of the Multitudes,False
+Marble Diamond,False
+Marauding Blight-Priest,False
+Late to Dinner,False
+"Laurine, the Diversion",False
+Lava Spike,False
+Law-Rune Enforcer,False
+Lay Down Arms,False
+"Lazav, the Multifarious",False
+Lazotep Plating,False
+Leaden Myr,False
+Leaf Gilder,False
+Legion Loyalist,False
+Leonin Arbiter,False
+"Leovold, Emissary of Trest",False
+Library of Alexandria,False
+"Lier, Disciple of the Drowned",False
+Lieutenant Kirtar,False
+Life of Toshiro Umezawa,False
+Light the Way,False
+Lightform,False
+Lightmine Field,False
+Lightning Phoenix,False
+Lightning Rift,False
+Lightning Skelemental,False
+Liliana's Mastery,False
+"Liliana, Dreadhorde General",False
+"Linvala, Keeper of Silence",False
+"Linvala, Shield of Sea Gate",False
+Launch the Fleet,False
+Last Rites,False
+Map the Wastes,False
+Last Gasp,False
+Kodama of the West Tree,False
+Kodama's Reach,False
+"Kogla, the Titan Ape",False
+Kolaghan Stormsinger,False
+"Kolaghan, the Storm's Fury",False
+Koma's Faithful,False
+Konda's Banner,False
+"Kongming, ""Sleeping Dragon""",False
+Kor Chant,False
+Kor Sanctifiers,False
+Korozda Guildmage,False
+Koth of the Hammer,False
+Kozilek's Channeler,False
+Kozilek's Return,False
+Kraul Harpooner,False
+"Kraum, Ludevic's Opus",False
+Krosan Restorer,False
+Kuldotha Rebirth,False
+"Kura, the Boundless Sky",False
+"Kydele, Chosen of Kruphix",False
+Laboratory Drudge,False
+"Lae'zel, Vlaakith's Champion",False
+Land Tax,False
+Lash of Malice,False
+Lashweed Lurker,False
+Lion's Eye Diamond,False
+Littjara Glade-Warden,False
+"Livaan, Cultist of Tiamat",False
+Living End,False
+Magister of Worth,False
+Magma Opus,False
+Magma Phoenix,False
+Magus of the Coffers,False
+Magus of the Moon,False
+Magus of the Wheel,False
+Magus of the Will,False
+"Mahadi, Emporium Master",False
+Makindi Stampede,False
+"Malcator, Purity Overseer",False
+"Malcolm, Keen-Eyed Navigator",False
+Malefic Scythe,False
+Malevolent Noble,False
+Mana Cannons,False
+Mana Crypt,False
+Mana Drain,False
+Mana Geode,False
+Manabarbs,False
+Manaform Hellkite,False
+Manakin,False
+Manascape Refractor,False
+"Mangara, the Diplomat",False
+Manglehorn,False
+Manifold Key,False
+Manor Gate,False
+Magic Missile,False
+Mage's Guile,False
+Mage Duel,False
+Lotus Field,False
+Living Lightning,False
+Living Wish,False
+"Livio, Oathsworn Sentinel",False
+Llanowar Reborn,False
+Loathsome Chimera,False
+Loch Dragon,False
+Abandoned Sarcophagus,False
+Longbow Archer,False
+Looming Spires,False
+"Loran, Disciple of History",False
+Lotleth Troll,False
+Lotus Vale,False
+Maestros Diabolist,False
+Lovisa Coldeyes,False
+Loxodon Smiter,False
+Loxodon Warhammer,False
+Loyal Apprentice,False
+"Lukka, Bound to Ruin",False
+"Lukka, Coppercoat Outcast",False
+Luminarch Ascension,False
+Lunar Force,False
+Lurking Automaton,False
+Macabre Waltz,False
+Maestros Charm,False
+Mountain Valley,False
+Mouth // Feed,False
+Knight-Errant of Eos,False
+Ore-Scale Guardian,False
+Orim's Thunder,False
+Ornery Goblin,False
+"Orvar, the All-Form",False
+Ossification,False
+"Otharri, Suns' Glory",False
+Otherworldly Gaze,False
+Otherworldly Journey,False
+Outnumber,False
+Ovalchase Daredevil,False
+Overcharged Amalgam,False
+Overcome,False
+Overgrown Battlement,False
+Overgrowth,False
+Overrun,False
+Oversold Cemetery,False
+Overwhelmed Apprentice,False
+Overwhelming Remorse,False
+"Oviya Pashiri, Sage Lifecrafter",False
+Oxidda Golem,False
+Pacification Array,False
+Pack Guardian,False
+Packsong Pup,False
+Pact Weapon,False
+Pact of Negation,False
+Painful Truths,False
+Organ Hoarder,False
+Order of Midnight,False
+Pale Recluse,False
+Orcish Lumberjack,False
+Ojutai's Command,False
+Oketra's Attendant,False
+Old Gnawbone,False
+Old One Eye,False
+Olivia Voldaren,False
+Olivia's Attendants,False
+Omen Hawker,False
+Omen of the Sea,False
+Omen of the Sun,False
+"Omnath, Locus of All",False
+"Omnath, Locus of the Roil",False
+On Thin Ice,False
+One with the Multiverse,False
+Ongoing Investigation,False
+Onyx Mage,False
+Oona's Blackguard,False
+Oona's Prowler,False
+"Oona, Queen of the Fae",False
+Opal Palace,False
+Opalescence,False
+Ophidian,False
+Opportunity,False
+Oppressive Rays,False
+Oracle of Tragedy,False
+Orchard Strider,False
+Painted Bluffs,False
+"Paliano, the High City",False
+Mouth of Ronom,False
+Phantom Centaur,False
+Pheres-Band Brawler,False
+Phoenix of Ash,False
+"Phylath, World Sculptor",False
+Phyrexian Delver,False
+Phyrexian Dreadnought,False
+Phyrexian Espionage,False
+Phyrexian Ingester,False
+Phyrexian Walker,False
+Phyrexian War Beast,False
+Pia's Revolution,False
+"Pianna, Nomad Captain",False
+Pierce Strider,False
+Pilfering Hawk,False
+Pillage,False
+Pillar of Flame,False
+Pillory of the Sleepless,False
+Pine Walker,False
+Piston Sledge,False
+Pit Keeper,False
+Plague Belcher,False
+Plague Boiler,False
+Plague Myr,False
+Plague Spitter,False
+Planar Atlas,False
+Planar Bridge,False
+Pharika's Libation,False
+Phantasmal Form,False
+Panharmonicon,False
+Phalanx Tactics,False
+Paradoxical Outcome,False
+Paragon of Fierce Defiance,False
+Parallel Lives,False
+Parcel Myr,False
+Pariah,False
+Parting Thoughts,False
+Past in Flames,False
+Patch Up,False
+Path of Ancestry,False
+Path to the World Tree,False
+Pathway Arrows,False
+Patriarch's Bidding,False
+Patrician Geist,False
+Patron of the Wild,False
+Pattern of Rebirth,False
+Pegasus Guardian,False
+Pelakka Wurm,False
+Pentad Prism,False
+Penumbra Bobcat,False
+Perilous Vault,False
+Persist,False
+Persuasion,False
+Pestilence,False
+Petrified Field,False
+Phalanx Leader,False
+Ohran Frostfang,False
+Ogre Slumlord,False
+Ogre Battledriver,False
+Mystical Teachings,False
+Mythos of Vadrok,False
+Nadier's Nightblade,False
+"Nael, Avizoa Aeronaut",False
+Nahiri's Wrath,False
+"Nahiri, the Unforgiving",False
+Nalia de'Arnise,False
+Nantuko Shade,False
+Nantuko Tracer,False
+"Narfi, Betrayer King",False
+Narnam Renegade,False
+"Narset, Enlightened Exile",False
+"Narset, Enlightened Master",False
+"Nashi, Moon Sage's Scion",False
+Natural State,False
+Natural Unity,False
+Nature's Way,False
+Nautiloid Ship,False
+Naya Charm,False
+Nearby Planet,False
+Nebelgast Herald,False
+Necravolver,False
+Necrogen Mists,False
+Necrogen Spellbomb,False
+Necrogoyf,False
+Necropede,False
+Mythos of Brokkos,False
+Mystic Sanctuary,False
+Of One Mind,False
+Mystic Retrieval,False
+Mox Amber,False
+Mox Emerald,False
+Mox Jet,False
+Mox Pearl,False
+Mox Ruby,False
+Mox Sapphire,False
+Mudbrawler Cohort,False
+Mudbutton Clanger,False
+Mudbutton Torchrunner,False
+Mugging,False
+Mulch,False
+"Muldrotha, the Gravetide",False
+Multiclass Baldric,False
+Multiform Wonder,False
+Munitions Expert,False
+Murder Investigation,False
+Murder of Crows,False
+Murderous Compulsion,False
+Mutual Destruction,False
+Muzzio's Preparations,False
+Myr Convert,False
+Myr Scrapling,False
+Myr Sire,False
+Myr Superion,False
+Myriad Landscape,False
+Necropolis Fiend,False
+Necropotence,False
+Necrotic Wound,False
+Nef-Crop Entangler,False
+Norn's Choirmaster,False
+Nova Cleric,False
+Noxious Revival,False
+"Noyan Dar, Roil Shaper",False
+Nuisance Engine,False
+Nullhide Ferox,False
+Nurgle's Rot,False
+"Nykthos, Shrine to Nyx",False
+Nylea's Intervention,False
+Nyx Weaver,False
+Oakhame Adversary,False
+Oath of Kaya,False
+"Ob Nixilis, Captive Kingpin",False
+Obelisk of Alara,False
+Obliterating Bolt,False
+Oblivion Sower,False
+Oblivion Strike,False
+"Oboro, Palace in the Clouds",False
+Obscura Charm,False
+Obscuring Aether,False
+Obsessive Skinner,False
+Obsidian Battle-Axe,False
+Obsidian Obelisk,False
+Ochre Jelly,False
+Odric's Outrider,False
+No One Left Behind,False
+Nivmagus Elemental,False
+"Nissa, Vastwood Seer",False
+"Nicol Bolas, God-Pharaoh",False
+"Neheb, Dreadhorde Champion",False
+Neoform,False
+Nephalia Drownyard,False
+Nessian Hornbeetle,False
+Nesting Dovehawk,False
+"Nethroi, Apex of Death",False
+Nexus of Fate,False
+"Niambi, Esteemed Speaker",False
+Niblis of Frost,False
+Niblis of the Urn,False
+"Nicol Bolas, Dragon-God",False
+"Nicol Bolas, Planeswalker",False
+"Nissa, Resurgent Animist",False
+"Nicol Bolas, the Ravager",False
+Night Clubber,False
+Night Market Lookout,False
+Night of Souls' Betrayal,False
+Nightbird's Clutches,False
+Nightshade Stinger,False
+Nightveil Sprite,False
+Nimble Mongoose,False
+Nimble Obstructionist,False
+Ninth Bridge Patrol,False
+Nishoba Brawler,False
+Kodama of the East Tree,False
+Knight of Dawn's Light,False
+Foulmire Knight,False
+Graf Reaver,False
+Grafted Growth,False
+Grafted Skullcap,False
+Grand Crescendo,False
+Grasp of Fate,False
+Grasping Dunes,False
+Grasslands,False
+Graveborn Muse,False
+Gravedigger,False
+Graven Lore,False
+Graveyard Trespasser,False
+Gray Merchant of Asphodel,False
+Great Furnace,False
+Great Oak Guardian,False
+Greater Tanuki,False
+Greatsword of Tyr,False
+Greed,False
+Gremlin Mine,False
+"Grenzo, Dungeon Warden",False
+Grim Bounty,False
+Grim Discovery,False
+Grim Draugr,False
+Grim Haruspex,False
+Grim Wanderer,False
+Grinding Station,False
+Grinning Demon,False
+Grafdigger's Cage,False
+Graceful Restoration,False
+Griselbrand,False
+Grab the Reins,False
+Goblin Pyromancer,False
+Goblin Razerunners,False
+Goblin Replica,False
+Goblin Shortcutter,False
+Goblin Sledder,False
+Goblin Taskmaster,False
+Goblin War Buggy,False
+Goblin Warchief,False
+God-Eternal Kefnet,False
+God-Eternal Oketra,False
+God-Pharaoh's Gift,False
+God-Pharaoh's Statue,False
+Gods Willing,False
+Gold Myr,False
+Golden Argosy,False
+Golden Demise,False
+Golden Egg,False
+Goldhound,False
+Goldmire Bridge,False
+Goldnight Commander,False
+Golgari Charm,False
+Golgari Thug,False
+"Goreclaw, Terror of Qal Sisma",False
+Goro-Goro and Satoru,False
+"Goro-Goro, Disciple of Ryusei",False
+Grip of Desolation,False
+Grotag Bug-Catcher,False
+Hermit Druid,False
+Hanged Executioner,False
+Hardened Berserker,False
+Hardy Outlander,False
+Harm's Way,False
+Harsh Mentor,False
+Hashep Oasis,False
+Haunted Cadaver,False
+Haunted Fengraf,False
+Haunted Library,False
+Haunted Mire,False
+Haunted Plate Mail,False
+Haze of Rage,False
+"Hazezon, Shaper of Sand",False
+Headhunter,False
+Headless Rider,False
+Hearthfire Hobgoblin,False
+Heartless Pillage,False
+Heartless Summoning,False
+Heated Debate,False
+Hedron Crab,False
+Hedron Crawler,False
+Hedron Detonator,False
+Heir of the Wilds,False
+Heliod's Intervention,False
+Hell Mongrel,False
+Helm of Awakening,False
+"Harald, King of Skemfar",False
+Hammer of Purphoros,False
+Grotag Night-Runner,False
+Hammer Mage,False
+Grove of the Guardian,False
+Grow from the Ashes,False
+Growth-Chamber Guardian,False
+Gruul Spellbreaker,False
+Gruul War Plow,False
+Guardian of the Guildpact,False
+Guerrilla Tactics,False
+Guild Artisan,False
+Guildless Commons,False
+Guildmages' Forum,False
+Gurgling Anointer,False
+"Gwenna, Eyes of Gaea",False
+Gyre Sage,False
+"Gyrus, Waker of Corpses",False
+"Haakon, Stromgald Scourge",False
+Hackrobat,False
+"Hajar, Loyal Bodyguard",False
+"Halana and Alena, Partners",False
+"Halana, Kessig Ranger",False
+Hall of Heliod's Generosity,False
+Hall of Storm Giants,False
+Hall of Tagsin,False
+Hallowed Haunting,False
+Halo Scarab,False
+"Halsin, Emerald Archdruid",False
+Goblin Piledriver,False
+Goblin Patrol,False
+Goblin Matron,False
+Gaea's Anthem,False
+Gaea's Will,False
+Galazeth Prismari,False
+Gale's Redirection,False
+"Gale, Waterdeep Prodigy",False
+Galvanic Iteration,False
+Galvanic Juggernaut,False
+Game Trail,False
+Garbage Fire,False
+"Garna, Bloodfist of Keld",False
+"Garruk, Apex Predator",False
+"Garruk, Cursed Huntsman",False
+"Garruk, Primal Hunter",False
+"Garruk, Unleashed",False
+Garth One-Eye,False
+Gather the Townsfolk,False
+"Gavi, Nest Warden",False
+Geier Reach Bandit,False
+Geier Reach Sanitarium,False
+Geistblast,False
+Gelatinous Genesis,False
+Gempalm Incinerator,False
+Gemrazer,False
+Gemstone Caverns,False
+Generous Gift,False
+Genesis Chamber,False
+Gaea's Skyfolk,False
+"Gadwick, the Wizened",False
+Goblin King,False
+Fyndhorn Elder,False
+Founding the Third Path,False
+Foundry Champion,False
+Foundry Helix,False
+Foundry of the Consuls,False
+Fracture,False
+Frogkin Kidnapper,False
+Frogtosser Banneret,False
+From Beyond,False
+Frost Augur,False
+Frost Bite,False
+Frost Breath,False
+Frost Lynx,False
+Frost Titan,False
+Frost Trickster,False
+Frostpeak Yeti,False
+Frostveil Ambush,False
+Frostwalk Bastion,False
+Frozen Aether,False
+Frozen Solid,False
+Fumigate,False
+Funeral Charm,False
+Funeral Pyre,False
+Funeral Rites,False
+Fungal Infection,False
+Fury Charm,False
+Genesis Ultimatum,False
+Genesis Wave,False
+Geothermal Bog,False
+Geralf's Messenger,False
+Glamorous Outlaw,False
+Glare of Subdual,False
+Glassdust Hulk,False
+Gleeful Demolition,False
+Glimmerpoint Stag,False
+Glimmervoid,False
+Glimpse of Nature,False
+Glint Hawk Idol,False
+Glint-Horn Buccaneer,False
+Glittering Frost,False
+Glorious Protector,False
+Glorious Sunrise,False
+Glowrider,False
+Gnarled Scarhide,False
+Gnarlid Colony,False
+Gnaw to the Bone,False
+Gnawing Vermin,False
+Gnawing Zombie,False
+Go Blank,False
+Goblin Assault,False
+Goblin Blast-Runner,False
+Goblin Charbelcher,False
+Goblin Goon,False
+Goblin Instigator,False
+Goblin Javelineer,False
+"Glacian, Powerstone Engineer",False
+Glacial Revelation,False
+Glacial Grasp,False
+Ghoulish Procession,False
+Geralf's Mindcrusher,False
+Gerrard's Hourglass Pendant,False
+Getaway Car,False
+Ghastly Demise,False
+Ghirapur Aether Grid,False
+Ghired's Belligerence,False
+"Ghired, Conclave Exile",False
+Ghitu Fire,False
+Ghost Quarter,False
+Ghost Town,False
+Ghostfire,False
+Ghoultree,False
+Glacial Floodplain,False
+"Giada, Font of Hope",False
+Giant Growth,False
+Gideon Jura,False
+Gift of Doom,False
+Gift of Estates,False
+Gift of Fangs,False
+Gigadrowse,False
+"Gilanra, Caller of Wirewood",False
+Gilt-Leaf Winnower,False
+Gird for Battle,False
+Gixian Puppeteer,False
+Heraldic Banner,False
+Hero of Bladehold,False
+"Klothys, God of Destiny",False
+Ixidron,False
+Izzet Staticaster,False
+Jace's Ingenuity,False
+"Jace, Cunning Castaway",False
+Jawbone Skulkin,False
+Jaya's Greeting,False
+Jaya's Immolating Inferno,False
+Jeering Instigator,False
+"Jerren, Corrupted Bishop",False
+Jeska's Will,False
+"Jeska, Thrice Reborn",False
+"Jeska, Warrior Adept",False
+Jeskai Charm,False
+Jeskai Elder,False
+Jeskai Sage,False
+"Jetmir, Nexus of Revels",False
+Jetting Glasskite,False
+Jhessian Zombies,False
+"Jin-Gitaxias, Progress Tyrant",False
+Jinxed Choker,False
+Jinxed Idol,False
+"Jodah, the Unifier",False
+"Jolrael, Mwonvuli Recluse",False
+"Jorn, God of Winter",False
+Jousting Dummy,False
+Judge's Familiar,False
+"Izoni, Thousand-Eyed",False
+"Ixidor, Reality Sculptor",False
+Jund Charm,False
+Ivorytusk Fortress,False
+Invasion of Innistrad,False
+Invasion of Ixalan,False
+Invasion of Kaladesh,False
+Invasion of Karsus,False
+Invasion of Mercadia,False
+Invasion of New Phyrexia,False
+Invasion of Ravnica,False
+Invasion of Regatha,False
+Invasion of Zendikar,False
+Invigorating Boon,False
+Invoke the Ancients,False
+Ionize,False
+Ipnu Rivulet,False
+Ire Shaman,False
+Iridescent Angel,False
+Iron Myr,False
+Iron Verdict,False
+Ironclaw Orcs,False
+Ironhoof Boar,False
+Irregular Cohort,False
+"Ishai, Ojutai Dragonspeaker",False
+"Ishkanah, Grafwidow",False
+Isu the Abominable,False
+Iterative Analysis,False
+Ivory Tower,False
+Juggernaut,False
+Jund Hackblade,False
+Hero of Leina Tower,False
+Kaya the Inexorable,False
+"Kaya, Orzhov Usurper",False
+Kayla's Reconstruction,False
+Kazandu Mammoth,False
+Keldon Megaliths,False
+Keldon Strike Team,False
+"Keleth, Sunmane Familiar",False
+"Kels, Fight Fixer",False
+Kenrith's Transformation,False
+"Keranos, God of Storms",False
+Kessig Malcontents,False
+Kessig Naturalist,False
+Kessig Prowler,False
+Ketria Crystal,False
+Key to the City,False
+Khalni Garden,False
+Kher Keep,False
+Kheru Spellsnatcher,False
+Kill Shot,False
+Kill! Maim! Burn!,False
+Kiln Fiend,False
+Kinjalli's Sunwing,False
+"Kinnan, Bonder Prodigy",False
+Kirtar's Desire,False
+Kitchen Imp,False
+Kjeldoran Outpost,False
+Kaya's Onslaught,False
+"Katilda, Dawnhart Prime",False
+Jungle Lion,False
+Katilda and Lier,False
+Jungle Shrine,False
+Juniper Order Rootweaver,False
+Junk Diver,False
+Just the Wind,False
+Juvenile Mist Dragon,False
+Jwari Disruption,False
+Kaalia of the Vast,False
+"Kaito, Dancing Shadow",False
+Kaleidostone,False
+"Kamahl, Heart of Krosa",False
+"Kamahl, Pit Fighter",False
+"Kamber, the Plunderer",False
+Kami of Transience,False
+Kami of Whispered Hopes,False
+Kami's Flare,False
+Kappa Cannoneer,False
+Kappa Tech-Wrecker,False
+Karakas,False
+Kardur's Vicious Return,False
+Kargan Warleader,False
+"Karlach, Fury of Avernus",False
+Karn's Sylex,False
+"Karn, Legacy Reforged",False
+"Karn, Living Legacy",False
+"Karn, Silver Golem",False
+Invasion of Gobakhan,False
+Invasion of Fiora,False
+Invasion of Ergamon,False
+Hope Tender,False
+Hordewing Skaab,False
+Horizon Seeker,False
+Hormagaunt Horde,False
+Horn of Greed,False
+Horn of Valhalla,False
+Hostile Desert,False
+Hound Tamer,False
+Hour of Promise,False
+How to Keep an Izzet Mage Busy,False
+Howling Moon,False
+"Huatli, the Sun's Heart",False
+Hulking Metamorph,False
+Hulking Ogre,False
+Hullbreacher,False
+Hullbreaker Horror,False
+Humiliate,False
+Hunted Witness,False
+Hunting Pack,False
+Hunting Triad,False
+Hurkyl's Recall,False
+"Hurkyl, Master Wizard",False
+Hurl Through Hell,False
+Hurricane,False
+Hymn of the Wilds,False
+Hypersonic Dragon,False
+Horde Ambusher,False
+Hooded Hydra,False
+Invasion of Eldraine,False
+Honored Crop-Captain,False
+Hero of the Nyxborn,False
+Hero of the Pride,False
+Heroes' Bane,False
+Hexgold Hoverwings,False
+Hexplate Wallbreaker,False
+Hidden Dragonslayer,False
+Hidden Guerrillas,False
+Hidden Herd,False
+Hidden Strings,False
+Hidetsugu Consumes All,False
+Hidetsugu and Kairi,False
+"Hidetsugu, Devouring Chaos",False
+High Alert,False
+High Priest of Penance,False
+High Sentinels of Arashin,False
+Highland Forest,False
+Hired Heist,False
+Historian's Boon,False
+Hoarding Broodlord,False
+Hoarding Dragon,False
+Hobble,False
+Hold the Perimeter,False
+Holdout Settlement,False
+Hollow Specter,False
+Homestead Courage,False
+Hypnotic Grifter,False
+Hypnotic Sprite,False
+Icatian Crier,False
+Ice Cage,False
+Incendiary Dissent,False
+Incorrigible Youths,False
+Incursion Specialist,False
+Indatha Crystal,False
+Induced Amnesia,False
+Indulgent Aristocrat,False
+Inexorable Blob,False
+Infantry Veteran,False
+Infected Vermin,False
+Infernal Plunge,False
+Infernal Tribute,False
+Inferno of the Star Mounts,False
+Infest,False
+Ingenious Infiltrator,False
+Ingot Chewer,False
+Inkwell Leviathan,False
+Inscribed Tablet,False
+Inscription of Insight,False
+Insidious Will,False
+Inspired Ultimatum,False
+Inspiring Leader,False
+Instigator Gang,False
+Into the North,False
+Invasion of Alara,False
+Invasion of Azgol,False
+Impulsive Pilferer,False
+Impromptu Raid,False
+Imprisoned in the Moon,False
+Ifnir Deadlands,False
+Ice Tunnel,False
+Icebind Pillar,False
+Icefall Regent,False
+Icefeather Aven,False
+Icehide Troll,False
+"Ich-Tekik, Salvage Splicer",False
+"Icingdeath, Frost Tyrant",False
+Icon of Ancestry,False
+Icy Blast,False
+Idol of Oblivion,False
+Idyllic Beachfront,False
+Igneous Pouncer,False
+Imperious Perfect,False
+Ignite the Future,False
+"Ikra Shidiqi, the Usurper",False
+Ill-Tempered Loner,False
+Ilysian Caryatid,False
+Immediate Action,False
+Immersturm Raider,False
+Immerwolf,False
+Impact Tremors,False
+Impassioned Orator,False
+Impede Momentum,False
+Impending Disaster,False
+Zurgo and Ojutai,False
