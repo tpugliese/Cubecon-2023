@@ -23,7 +23,9 @@ Cube Name
 
 ## Grouping & Analysis
 
-## Export
+## Exports
+
+Initial Pre-Accepted Cube List of Every card that Appeared in more than 6 Cubes: [The Pre-Accepted Cube](https://cubecobra.com/cube/overview/2c75f10b-ccef-47d0-8821-a085a08d434b)
 
 ## References
 
