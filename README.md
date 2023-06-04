@@ -10,10 +10,23 @@ A celebration of these creations is happening October 2023 in Madison, WI as par
 
 ## Data Sourcing
 
+To begin with, my data intuition recognized at the most manual level, I would need to visit each Cubecobra website, and download the Cube into a `.csv` and load that file into Jupyter.  I would then have to download the [Scryfall.com]() Card Data package, and then attempt to merge the Cubecobra files together and then _Left Join_ the Scryfall.com data onto it.  
+
+While being incredibly tedious, Cubes can change only a daily basis, and trying to reload them consistently would be more trouble than it was worth.
+
+
 ## Data Polishing
+
+Cube Type
+Cube ID
+Cube Name
+
+## Grouping & Analysis
 
 ## Export
 
 ## References
 
 Reading Multiple Files for Concatenating [neuraldatascience.io](https://neuraldatascience.io/3-python/looping_data_files.html)
+
+[Personal Copy of Cube Voting for Cubecon'23](https://docs.google.com/spreadsheets/d/1On6341vsVo_kCUgNGHHqOhzvFDxaGHPcBfxWj8yVPaw/edit?usp=sharing)
